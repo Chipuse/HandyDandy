@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: 90354d72459b3594cae57ae043cb9067
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2401858128074409184
+    second: deko5 MinenEquipment_0
+  - first:
+      213: -1624144461082127331
+    second: deko5 MinenEquipment_1
+  - first:
+      213: -506792129080687594
+    second: deko5 MinenEquipment_2
+  - first:
+      213: 6254850044793683804
+    second: deko5 MinenEquipment_3
+  - first:
+      213: 5752599163496077936
+    second: deko5 MinenEquipment_4
+  - first:
+      213: 5555931378859436297
+    second: deko5 MinenEquipment_5
+  - first:
+      213: -2767883368418606114
+    second: deko5 MinenEquipment_6
+  - first:
+      213: -1682786498656843147
+    second: deko5 MinenEquipment_7
+  - first:
+      213: -7793791079791274781
+    second: deko5 MinenEquipment_8
+  - first:
+      213: -3934176433656378949
+    second: deko5 MinenEquipment_9
+  - first:
+      213: -108296358657545816
+    second: deko5 MinenEquipment_10
+  - first:
+      213: -7922957914260535410
+    second: deko5 MinenEquipment_11
+  - first:
+      213: -4586835205174840028
+    second: deko5 MinenEquipment_12
+  - first:
+      213: -2799904761374872071
+    second: deko5 MinenEquipment_13
+  - first:
+      213: 4682550087408336030
+    second: deko5 MinenEquipment_14
+  - first:
+      213: -2482972814291060849
+    second: deko5 MinenEquipment_15
+  - first:
+      213: -9148973176086592593
+    second: deko5 MinenEquipment_16
+  - first:
+      213: -3861840881744417702
+    second: deko5 MinenEquipment_17
+  - first:
+      213: 1715233979925963143
+    second: deko5 MinenEquipment_18
+  - first:
+      213: 9103154478211108222
+    second: deko5 MinenEquipment_19
+  - first:
+      213: 4399532275307583169
+    second: deko5 MinenEquipment_20
+  - first:
+      213: -2727748691283970069
+    second: deko5 MinenEquipment_21
+  - first:
+      213: 6315967640475106926
+    second: deko5 MinenEquipment_22
+  - first:
+      213: -8721111058532860066
+    second: deko5 MinenEquipment_23
+  - first:
+      213: -5308246242800797075
+    second: deko5 MinenEquipment_24
+  - first:
+      213: -7157684435882802553
+    second: deko5 MinenEquipment_25
+  - first:
+      213: 521015121168938305
+    second: deko5 MinenEquipment_26
+  - first:
+      213: -7912856004737453426
+    second: deko5 MinenEquipment_27
+  - first:
+      213: 3029290441902413577
+    second: deko5 MinenEquipment_28
+  - first:
+      213: -3785035630560729785
+    second: deko5 MinenEquipment_29
+  - first:
+      213: -4082595849762886976
+    second: deko5 MinenEquipment_30
+  - first:
+      213: 7714386610829312624
+    second: deko5 MinenEquipment_31
+  - first:
+      213: -5145817068411416438
+    second: deko5 MinenEquipment_32
+  - first:
+      213: -8070670405168579056
+    second: deko5 MinenEquipment_33
+  - first:
+      213: -5742767912934532393
+    second: deko5 MinenEquipment_34
+  - first:
+      213: 2348109512037040666
+    second: deko5 MinenEquipment_35
+  - first:
+      213: -7540911598655585402
+    second: deko5 MinenEquipment_36
+  - first:
+      213: -3745537923899882285
+    second: deko5 MinenEquipment_37
+  - first:
+      213: -319695513094005063
+    second: deko5 MinenEquipment_38
+  - first:
+      213: -8901601178673429901
+    second: deko5 MinenEquipment_39
+  - first:
+      213: 2264922214004806452
+    second: deko5 MinenEquipment_40
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b70e92c615587b489e31ccb8e866f48
+      internalID: -2401858128074409184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c849b734a467614a98f766031f8f8d2
+      internalID: -1624144461082127331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd77b951342744a89a4fc9acb9c1dc
+      internalID: -506792129080687594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88deb30b697440541ac749022fdbd4de
+      internalID: 6254850044793683804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51bd8ce21a0de74ea03089c7c029451
+      internalID: 5752599163496077936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ef9b43a82e1584fabf936724623b7a
+      internalID: 5555931378859436297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74796d5dbca1b284192de8a2cb32b8c5
+      internalID: -2767883368418606114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02c2cdd470b7af43a227450496b6142
+      internalID: -1682786498656843147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de836f115e9d42c4083f28fa80878d36
+      internalID: -7793791079791274781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2213eb20675a74ca015854fa3bd25d
+      internalID: -3934176433656378949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f68ef75d143e54fbc1b2b76be34a74
+      internalID: -108296358657545816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6f6c34e8a0ae343b5fa762d9f75272
+      internalID: -7922957914260535410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217d2d64a8331ac46975601684c415c4
+      internalID: -4586835205174840028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3a30aa5af26d04eb55680993942c05
+      internalID: -2799904761374872071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58271e1462513dd4d837818bed7b2675
+      internalID: 4682550087408336030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cb173e06a7f634e9789f325e059e5f
+      internalID: -2482972814291060849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2218f1b1f33caad48aece72b8959710f
+      internalID: -9148973176086592593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f79d1c498d2e4482f1818c0fc6cf5
+      internalID: -3861840881744417702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210df9a638412bf4b8df6ed98a7c6e5f
+      internalID: 1715233979925963143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2036cc544f533ac479841d9524676d20
+      internalID: 9103154478211108222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550e7657e889fc14485f3dbb834c6432
+      internalID: 4399532275307583169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2390bf42ffdceb94fa15702258447c1f
+      internalID: -2727748691283970069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f132cb039854d4a954ad6cadfd5418
+      internalID: 6315967640475106926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bfe382623ee4f43a65d30582023932
+      internalID: -8721111058532860066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1753bb8889a2c049a76a9cc52af4898
+      internalID: -5308246242800797075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919ca3b480914bb4e9d62b683b1a3629
+      internalID: -7157684435882802553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_26
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dc2d2eff3ad0c4b8b0e715302ec078
+      internalID: 521015121168938305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b08873c7161af6418b750d8bb32f481
+      internalID: -7912856004737453426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46df5dadf666f84408412b14683716c4
+      internalID: 3029290441902413577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cce8f220cfccd45ac3c38106b16e7b
+      internalID: -3785035630560729785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b34af33912cfb4eb634683839074b3
+      internalID: -4082595849762886976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894105f72c36dd64791963a30ee1d1a2
+      internalID: 7714386610829312624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_32
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb101a2d6bf4ef94994f2a4ec213f879
+      internalID: -5145817068411416438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db5cae543a3f748a08bc9fb6ebac18
+      internalID: -8070670405168579056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52c3886eedb16a4696660c663250999
+      internalID: -5742767912934532393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01676717f3957214fa6db2058d0cc098
+      internalID: 2348109512037040666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8158d760a9027f14bb594e9be6c29abe
+      internalID: -7540911598655585402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_37
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6dd8076aa0ae2469aad23e7978d0b9
+      internalID: -3745537923899882285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f34ce0101c214a408f11715b74ffca1
+      internalID: -319695513094005063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159b31a45e258ef4587d3bd757757659
+      internalID: -8901601178673429901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko5 MinenEquipment_40
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908ccdcd28a8b4f4ea46ccd9c5169708
+      internalID: 2264922214004806452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8844c74f6495df34185c3b8af59cd3d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      deko5 MinenEquipment_22: 6315967640475106926
+      deko5 MinenEquipment_38: -319695513094005063
+      deko5 MinenEquipment_39: -8901601178673429901
+      deko5 MinenEquipment_40: 2264922214004806452
+      deko5 MinenEquipment_31: 7714386610829312624
+      deko5 MinenEquipment_32: -5145817068411416438
+      deko5 MinenEquipment_26: 521015121168938305
+      deko5 MinenEquipment_15: -2482972814291060849
+      deko5 MinenEquipment_18: 1715233979925963143
+      deko5 MinenEquipment_10: -108296358657545816
+      deko5 MinenEquipment_14: 4682550087408336030
+      deko5 MinenEquipment_33: -8070670405168579056
+      deko5 MinenEquipment_9: -3934176433656378949
+      deko5 MinenEquipment_2: -506792129080687594
+      deko5 MinenEquipment_30: -4082595849762886976
+      deko5 MinenEquipment_0: -2401858128074409184
+      deko5 MinenEquipment_5: 5555931378859436297
+      deko5 MinenEquipment_3: 6254850044793683804
+      deko5 MinenEquipment_24: -5308246242800797075
+      deko5 MinenEquipment_19: 9103154478211108222
+      deko5 MinenEquipment_34: -5742767912934532393
+      deko5 MinenEquipment_23: -8721111058532860066
+      deko5 MinenEquipment_4: 5752599163496077936
+      deko5 MinenEquipment_29: -3785035630560729785
+      deko5 MinenEquipment_1: -1624144461082127331
+      deko5 MinenEquipment_6: -2767883368418606114
+      deko5 MinenEquipment_13: -2799904761374872071
+      deko5 MinenEquipment_8: -7793791079791274781
+      deko5 MinenEquipment_7: -1682786498656843147
+      deko5 MinenEquipment_12: -4586835205174840028
+      deko5 MinenEquipment_36: -7540911598655585402
+      deko5 MinenEquipment_17: -3861840881744417702
+      deko5 MinenEquipment_28: 3029290441902413577
+      deko5 MinenEquipment_21: -2727748691283970069
+      deko5 MinenEquipment_25: -7157684435882802553
+      deko5 MinenEquipment_37: -3745537923899882285
+      deko5 MinenEquipment_11: -7922957914260535410
+      deko5 MinenEquipment_20: 4399532275307583169
+      deko5 MinenEquipment_27: -7912856004737453426
+      deko5 MinenEquipment_16: -9148973176086592593
+      deko5 MinenEquipment_35: 2348109512037040666
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

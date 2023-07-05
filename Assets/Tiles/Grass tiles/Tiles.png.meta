@@ -1,0 +1,1335 @@
+fileFormatVersion: 2
+guid: c8fc1f0148ec4da47a8945b0c92516dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_0
+  - first:
+      213: 21300002
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_1
+  - first:
+      213: 21300004
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_2
+  - first:
+      213: 21300006
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_3
+  - first:
+      213: 21300008
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_4
+  - first:
+      213: 21300010
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_5
+  - first:
+      213: 21300012
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_6
+  - first:
+      213: 21300014
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_7
+  - first:
+      213: 21300016
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_8
+  - first:
+      213: 21300018
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_9
+  - first:
+      213: 21300020
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_10
+  - first:
+      213: 21300022
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_11
+  - first:
+      213: 21300024
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_12
+  - first:
+      213: 21300026
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_13
+  - first:
+      213: 21300028
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_14
+  - first:
+      213: 21300030
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_15
+  - first:
+      213: 21300032
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_16
+  - first:
+      213: 21300034
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_17
+  - first:
+      213: 21300036
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_18
+  - first:
+      213: 21300038
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_19
+  - first:
+      213: 21300040
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_20
+  - first:
+      213: 21300042
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_21
+  - first:
+      213: 21300044
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_22
+  - first:
+      213: 21300046
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_23
+  - first:
+      213: 21300048
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_24
+  - first:
+      213: 21300050
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_25
+  - first:
+      213: 21300052
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_26
+  - first:
+      213: 21300054
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_27
+  - first:
+      213: 21300056
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_28
+  - first:
+      213: 21300058
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_29
+  - first:
+      213: 21300060
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_30
+  - first:
+      213: 21300062
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_31
+  - first:
+      213: 21300064
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_32
+  - first:
+      213: 21300066
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_33
+  - first:
+      213: 21300068
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_34
+  - first:
+      213: 21300070
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_35
+  - first:
+      213: 21300072
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_36
+  - first:
+      213: 21300074
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_37
+  - first:
+      213: 21300076
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_38
+  - first:
+      213: 21300078
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_39
+  - first:
+      213: 21300080
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_40
+  - first:
+      213: 21300082
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_41
+  - first:
+      213: 21300084
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_42
+  - first:
+      213: 21300086
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_43
+  - first:
+      213: 21300088
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_44
+  - first:
+      213: 21300090
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_45
+  - first:
+      213: 21300092
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_46
+  - first:
+      213: 21300094
+    second: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff48e1e5b369f42830237c1223f590
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1723747861741f24bbbd0d3281b63bcb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e736719933f44a46883461fe1e03d31
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120145a7825b05e48a123d130aba9bd1
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6f0f8abc6fa7f40ab16ef99ef03bde
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5071ab062a3dc42b8e4b86730e4f2c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4529dc38c1d3bca4f992979396641e11
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40a1dd1da38394ba810d25dd71ef1c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b066ba2607bd3a478965a22bcc4d177
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa817775fedbe4db7a22a0e98dd744
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888fa6d48d0d8c4eb9f76a0e26e104a
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918da97706789e4bbe91becf1e6d0a6
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34abbe03966c84490baa4d4887d0db
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f16db762fe472a4b9eff37b8b1feb76
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0a70fa5b0771d408b4a79d056df139
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea919b183a94e6b4b9ad8b3753173d17
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f7e3297fe22d4fbced3105885826b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b05d41cd3f1d49428cc5f6e1d105b62
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f9763aac011143aa521702cbd8802
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89277520272985340b87ea7c6f2ae39b
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bde5a5bf8c6f9b4198de9f22166215a
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8d741bb0b2d9246ac2740a1f7e4510
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b45edcb3496cb4aa5624beaae5e66b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5640f15b83cfd0948b8accb40fb18c08
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf9d36958d0ab346b754e4316ce9653
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b322d3272b3535645b9a93e35ed8ba69
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2143ff33ea6444eb152dd436483c63
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b990e1b0e869245b54df7b14c1ac72
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c020d17df8118643ae3a034ea83792a
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8240461ae2d9f094fb8db88a453b7213
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17deac45c1b41c343b31fd2cd467ae17
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f7d133fc61cb54b829f430abdaa21f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835fa84c19ba4c84e936592356bda1f2
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918323fd246475243a706d8cbf324111
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73557ea63d96824ebd69ec1e82e7e15
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81339204df7b1dc46a358bc251451e33
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e03c6cefa82a0e40b84efed14348c91
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b658942bcace94295eb830feb503d0
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4df681953afcb4387d4f104d30ecb7
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d2254d71ce8d54abe965f21c338438
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b9dd05b8e1ce64b9f557aad66e9270
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cbc157ebf24014d86eb82d69f51372
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a481eec1a159f4baf26905ac7f9bd5
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d30990481aab64bb76e470ed0fb41e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9010f1a18f070a14c833caf9ae554b78
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70e3edefc780ed4c8f588185302be32
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a35e21e3b4e3a64689c2664e6286f7c
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61edb0993e97713458cf5e0584d9a771
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be8a7b1be87580e4faece62472105a4c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_26: 21300052
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_2: 21300004
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_30: 21300060
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_35: 21300070
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_45: 21300090
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_37: 21300074
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_10: 21300020
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_25: 21300050
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_13: 21300026
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_41: 21300082
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_44: 21300088
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_21: 21300042
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_36: 21300072
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_29: 21300058
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_33: 21300066
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_4: 21300008
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_40: 21300080
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_31: 21300062
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_34: 21300068
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_18: 21300036
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_14: 21300028
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_46: 21300092
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_9: 21300018
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_22: 21300044
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_19: 21300038
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_17: 21300034
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_24: 21300048
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_12: 21300024
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_16: 21300032
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_43: 21300086
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_42: 21300084
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_0: 21300000
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_20: 21300040
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_7: 21300014
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_28: 21300056
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_47: 21300094
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_8: 21300016
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_3: 21300006
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_1: 21300002
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_38: 21300076
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_23: 21300046
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_32: 21300064
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_27: 21300054
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_5: 21300010
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_6: 21300012
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_39: 21300078
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_11: 21300022
+      fucking_tilesNOW_WITH_CURVED_EDGES_ImProVeDDDD_15: 21300030
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

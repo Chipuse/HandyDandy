@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: f48871a1372b0c44d9b60d9dd7fa5e9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1819014829352208080
+    second: SteinformationenROSAkristall_0
+  - first:
+      213: -4104535556989264857
+    second: SteinformationenROSAkristall_1
+  - first:
+      213: 3070491822203156542
+    second: SteinformationenROSAkristall_2
+  - first:
+      213: -7757099990323808843
+    second: SteinformationenROSAkristall_3
+  - first:
+      213: -1344450887144059400
+    second: SteinformationenROSAkristall_4
+  - first:
+      213: 7630760823199057566
+    second: SteinformationenROSAkristall_5
+  - first:
+      213: -2785782549908052774
+    second: SteinformationenROSAkristall_6
+  - first:
+      213: -8124123187173706499
+    second: SteinformationenROSAkristall_7
+  - first:
+      213: -7628109066660432630
+    second: SteinformationenROSAkristall_8
+  - first:
+      213: -792867367832617375
+    second: SteinformationenROSAkristall_9
+  - first:
+      213: 4253167222041862479
+    second: SteinformationenROSAkristall_10
+  - first:
+      213: 6186549594823728634
+    second: SteinformationenROSAkristall_11
+  - first:
+      213: 5517680809571742319
+    second: SteinformationenROSAkristall_12
+  - first:
+      213: -8340242404673179413
+    second: SteinformationenROSAkristall_13
+  - first:
+      213: -1702364098751976699
+    second: SteinformationenROSAkristall_14
+  - first:
+      213: 288605835883812709
+    second: SteinformationenROSAkristall_15
+  - first:
+      213: -4400632512840180978
+    second: SteinformationenROSAkristall_16
+  - first:
+      213: -3712670698070345478
+    second: SteinformationenROSAkristall_17
+  - first:
+      213: -3008717332683282297
+    second: SteinformationenROSAkristall_18
+  - first:
+      213: -5907998276515145140
+    second: SteinformationenROSAkristall_19
+  - first:
+      213: 6802664424896443131
+    second: SteinformationenROSAkristall_20
+  - first:
+      213: 399958734968074241
+    second: SteinformationenROSAkristall_21
+  - first:
+      213: 4221908863755442607
+    second: SteinformationenROSAkristall_22
+  - first:
+      213: -3178093991669709365
+    second: SteinformationenROSAkristall_23
+  - first:
+      213: -8740669182007139456
+    second: SteinformationenROSAkristall_24
+  - first:
+      213: -2835845850833613960
+    second: SteinformationenROSAkristall_25
+  - first:
+      213: 8970506221103480781
+    second: SteinformationenROSAkristall_26
+  - first:
+      213: -3387855978345719352
+    second: SteinformationenROSAkristall_27
+  - first:
+      213: -3247627515746673113
+    second: SteinformationenROSAkristall_28
+  - first:
+      213: 8171893398704031137
+    second: SteinformationenROSAkristall_29
+  - first:
+      213: 7363368779686542570
+    second: SteinformationenROSAkristall_30
+  - first:
+      213: -8727878087592314516
+    second: SteinformationenROSAkristall_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcef8b5e14eddf4fb9a1546c5bdde07
+      internalID: -1819014829352208080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba5e02863e2104ea1dbcd1ec14d162
+      internalID: -4104535556989264857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecfe00b6c8b49242a68076f39b5a79c
+      internalID: 3070491822203156542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed07a5468a33234e8ad24647a7aa546
+      internalID: -7757099990323808843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42885fd6168f3fa4ab172a346b89db98
+      internalID: -1344450887144059400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c017f21d37be34f45a137b529b240530
+      internalID: 7630760823199057566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf5f2bd6c8861438b4d720b0fc5b04
+      internalID: -2785782549908052774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b3ecada8f6e4d40bd22e53ed628ecb
+      internalID: -8124123187173706499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c6a1c15f869e74cb9261c11f7d8166
+      internalID: -7628109066660432630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e40d28507519d4187bb34bfd05646e
+      internalID: -792867367832617375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1de0f3afd779d4180f3238c8a60cf5
+      internalID: 4253167222041862479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d6e4622237b934fae2a8a309ca6012
+      internalID: 6186549594823728634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b16720d0302f444a986768113710f8e
+      internalID: 5517680809571742319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce873bf1015eeb4b8dab623756c37d6
+      internalID: -8340242404673179413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5a97303effbe4a98f248fb5f478f8
+      internalID: -1702364098751976699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc00d4912f880479c847acac32cf79
+      internalID: 288605835883812709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3864cffab7f5fce4f9025bbf80918d3d
+      internalID: -4400632512840180978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f591186cecc1ab4cb194371946ffbbb
+      internalID: -3712670698070345478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ea1d641a71b8e4f8448e0a63a82747
+      internalID: -3008717332683282297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3305f55b3a76e1d4fae5bd89259ec9e4
+      internalID: -5907998276515145140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d413808f58b6c43b2bf66de544beae
+      internalID: 6802664424896443131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc4cc8fc033f5945a3b4078f642030b
+      internalID: 399958734968074241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b8e938b5d1ed4f92cc49a631f42e8
+      internalID: 4221908863755442607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a56142cc6afa9c45a7a438144291308
+      internalID: -3178093991669709365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b872381ecfc4694e9fdd33b455ad075
+      internalID: -8740669182007139456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4254779de5acf1445bf081982bee6199
+      internalID: -2835845850833613960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba7c6386f548654da66848bc343bfaa
+      internalID: 8970506221103480781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f73f22140cfe7a4b9596676cc41482e
+      internalID: -3387855978345719352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d9e3e6b497bde4aa805c38117ecfe0
+      internalID: -3247627515746673113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865040fa454815c4b89c878df6219bfa
+      internalID: 8171893398704031137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbafee8274b8354b96c4b04291898d1
+      internalID: 7363368779686542570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenROSAkristall_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545dd0b7ba3c16e4683daee3a654bba3
+      internalID: -8727878087592314516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dc2e75356d3c3394285d6fc71b11edca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SteinformationenROSAkristall_9: -792867367832617375
+      SteinformationenROSAkristall_5: 7630760823199057566
+      SteinformationenROSAkristall_6: -2785782549908052774
+      SteinformationenROSAkristall_11: 6186549594823728634
+      SteinformationenROSAkristall_8: -7628109066660432630
+      SteinformationenROSAkristall_30: 7363368779686542570
+      SteinformationenROSAkristall_1: -4104535556989264857
+      SteinformationenROSAkristall_3: -7757099990323808843
+      SteinformationenROSAkristall_10: 4253167222041862479
+      SteinformationenROSAkristall_14: -1702364098751976699
+      SteinformationenROSAkristall_22: 4221908863755442607
+      SteinformationenROSAkristall_25: -2835845850833613960
+      SteinformationenROSAkristall_27: -3387855978345719352
+      SteinformationenROSAkristall_21: 399958734968074241
+      SteinformationenROSAkristall_2: 3070491822203156542
+      SteinformationenROSAkristall_17: -3712670698070345478
+      SteinformationenROSAkristall_29: 8171893398704031137
+      SteinformationenROSAkristall_12: 5517680809571742319
+      SteinformationenROSAkristall_15: 288605835883812709
+      SteinformationenROSAkristall_18: -3008717332683282297
+      SteinformationenROSAkristall_23: -3178093991669709365
+      SteinformationenROSAkristall_28: -3247627515746673113
+      SteinformationenROSAkristall_24: -8740669182007139456
+      SteinformationenROSAkristall_19: -5907998276515145140
+      SteinformationenROSAkristall_13: -8340242404673179413
+      SteinformationenROSAkristall_16: -4400632512840180978
+      SteinformationenROSAkristall_26: 8970506221103480781
+      SteinformationenROSAkristall_20: 6802664424896443131
+      SteinformationenROSAkristall_0: -1819014829352208080
+      SteinformationenROSAkristall_4: -1344450887144059400
+      SteinformationenROSAkristall_7: -8124123187173706499
+      SteinformationenROSAkristall_31: -8727878087592314516
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 64ec0c65716a9384fb45a64c4e987c37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7343078776608361782
+    second: handy_idle_03_0
+  - first:
+      213: -6886452471970838615
+    second: handy_idle_03_1
+  - first:
+      213: -8515102893989842572
+    second: handy_idle_03_2
+  - first:
+      213: -1538568835050118026
+    second: handy_idle_03_3
+  - first:
+      213: 3943692021342606848
+    second: handy_idle_03_4
+  - first:
+      213: 9153981031072097563
+    second: handy_idle_03_5
+  - first:
+      213: 2787651749944526697
+    second: handy_idle_03_6
+  - first:
+      213: -8213572607785512467
+    second: handy_idle_03_7
+  - first:
+      213: 5009662200751445345
+    second: handy_idle_03_8
+  - first:
+      213: -6693221773073218965
+    second: handy_idle_03_9
+  - first:
+      213: 6402234135213980692
+    second: handy_idle_03_10
+  - first:
+      213: -231573050423876053
+    second: handy_idle_03_11
+  - first:
+      213: 1190743213186889909
+    second: handy_idle_03_12
+  - first:
+      213: 7165214494632231307
+    second: handy_idle_03_13
+  - first:
+      213: 1796015899585381049
+    second: handy_idle_03_14
+  - first:
+      213: 2532070256011782295
+    second: handy_idle_03_15
+  - first:
+      213: -2536124924960218581
+    second: handy_idle_03_16
+  - first:
+      213: -6108614019492468146
+    second: handy_idle_03_17
+  - first:
+      213: -8128582727171415175
+    second: handy_idle_03_18
+  - first:
+      213: 7713193029853351811
+    second: handy_idle_03_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: handy_idle_03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b90de847b4b4442b5352e90cf08f2b
+      internalID: 7343078776608361782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6830e1bafe498bc439c7d45a7a4f1c16
+      internalID: -6886452471970838615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc60011844aa574794bc0658f520d9f
+      internalID: -8515102893989842572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7858fb54b9b924c99f7628e473e88d
+      internalID: -1538568835050118026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525dc3475bb7e314189f340e7e094ad5
+      internalID: 3943692021342606848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_5
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf8919ed42992458a7bc85870c5627
+      internalID: 9153981031072097563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_6
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e76263eb9b5e7b4890752435615f80a
+      internalID: 2787651749944526697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_7
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a083ec9ed4ab9648ad886659fee566e
+      internalID: -8213572607785512467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_8
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d10958af23c5b541ba4ad44f9fd2ce9
+      internalID: 5009662200751445345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_9
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bfbc9cfd133974da1d3a4218113125
+      internalID: -6693221773073218965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_10
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc166267e19aa34697cb560b7c40682
+      internalID: 6402234135213980692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_11
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9d17201b349b846b1dd812a9608be8
+      internalID: -231573050423876053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_12
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcda8769533291e40a1e842b570386e7
+      internalID: 1190743213186889909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_13
+      rect:
+        serializedVersion: 2
+        x: 6630
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0778c67d1ad5512479296fe3837277ce
+      internalID: 7165214494632231307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_14
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6df19c520b01d408dad2e661cd7c63
+      internalID: 1796015899585381049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_15
+      rect:
+        serializedVersion: 2
+        x: 7650
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f037b371ab80844847d9e4e5cbe8e6
+      internalID: 2532070256011782295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_16
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145ba9f784e807e42b0e81f163925a88
+      internalID: -2536124924960218581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_17
+      rect:
+        serializedVersion: 2
+        x: 8670
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbcf9da985a55d47a8fd7e158b44225
+      internalID: -6108614019492468146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_18
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5714d2007799a46b6912ed827f2bdf
+      internalID: -8128582727171415175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handy_idle_03_19
+      rect:
+        serializedVersion: 2
+        x: 9690
+        y: 0
+        width: 510
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365e63734a2b5564b9acdba96e54bf0b
+      internalID: 7713193029853351811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f580a6516522e9648ad709a79a78074e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      handy_idle_03_3: -1538568835050118026
+      handy_idle_03_13: 7165214494632231307
+      handy_idle_03_15: 2532070256011782295
+      handy_idle_03_8: 5009662200751445345
+      handy_idle_03_4: 3943692021342606848
+      handy_idle_03_12: 1190743213186889909
+      handy_idle_03_0: 7343078776608361782
+      handy_idle_03_1: -6886452471970838615
+      handy_idle_03_14: 1796015899585381049
+      handy_idle_03_19: 7713193029853351811
+      handy_idle_03_7: -8213572607785512467
+      handy_idle_03_5: 9153981031072097563
+      handy_idle_03_17: -6108614019492468146
+      handy_idle_03_11: -231573050423876053
+      handy_idle_03_2: -8515102893989842572
+      handy_idle_03_18: -8128582727171415175
+      handy_idle_03_10: 6402234135213980692
+      handy_idle_03_9: -6693221773073218965
+      handy_idle_03_16: -2536124924960218581
+      handy_idle_03_6: 2787651749944526697
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

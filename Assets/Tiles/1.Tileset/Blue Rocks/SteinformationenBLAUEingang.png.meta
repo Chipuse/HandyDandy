@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: 49f88b8790a834944878cc953ec03661
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6430287141459126313
+    second: SteinformationenBLAUEingang_0
+  - first:
+      213: -2481729165644884044
+    second: SteinformationenBLAUEingang_1
+  - first:
+      213: -7987413447952532853
+    second: SteinformationenBLAUEingang_2
+  - first:
+      213: 14384718310507046
+    second: SteinformationenBLAUEingang_3
+  - first:
+      213: 1623680090294754083
+    second: SteinformationenBLAUEingang_4
+  - first:
+      213: -6615079648544239277
+    second: SteinformationenBLAUEingang_5
+  - first:
+      213: 3316948899430260351
+    second: SteinformationenBLAUEingang_6
+  - first:
+      213: -9073596429772603736
+    second: SteinformationenBLAUEingang_7
+  - first:
+      213: -5134173745851735806
+    second: SteinformationenBLAUEingang_8
+  - first:
+      213: -2577168188187993246
+    second: SteinformationenBLAUEingang_9
+  - first:
+      213: -826161471175229916
+    second: SteinformationenBLAUEingang_10
+  - first:
+      213: -8613404836502399621
+    second: SteinformationenBLAUEingang_11
+  - first:
+      213: -7938158873686204216
+    second: SteinformationenBLAUEingang_12
+  - first:
+      213: 708018745843434255
+    second: SteinformationenBLAUEingang_13
+  - first:
+      213: 7096668281988883540
+    second: SteinformationenBLAUEingang_14
+  - first:
+      213: 3105215755902465400
+    second: SteinformationenBLAUEingang_15
+  - first:
+      213: 4028410478415647157
+    second: SteinformationenBLAUEingang_16
+  - first:
+      213: 5502319588017519693
+    second: SteinformationenBLAUEingang_17
+  - first:
+      213: 8869828649014683371
+    second: SteinformationenBLAUEingang_18
+  - first:
+      213: -4670933705838816825
+    second: SteinformationenBLAUEingang_19
+  - first:
+      213: 4926385537217340871
+    second: SteinformationenBLAUEingang_20
+  - first:
+      213: -7644479464030297221
+    second: SteinformationenBLAUEingang_21
+  - first:
+      213: 2369485161459655413
+    second: SteinformationenBLAUEingang_22
+  - first:
+      213: 8330041183935563283
+    second: SteinformationenBLAUEingang_23
+  - first:
+      213: -5297284522029428182
+    second: SteinformationenBLAUEingang_24
+  - first:
+      213: -3854491505841030039
+    second: SteinformationenBLAUEingang_25
+  - first:
+      213: -1558378673554969701
+    second: SteinformationenBLAUEingang_26
+  - first:
+      213: 3593223652453099012
+    second: SteinformationenBLAUEingang_27
+  - first:
+      213: -113693891750875177
+    second: SteinformationenBLAUEingang_28
+  - first:
+      213: -2728427254564180026
+    second: SteinformationenBLAUEingang_29
+  - first:
+      213: 6790446835751313583
+    second: SteinformationenBLAUEingang_30
+  - first:
+      213: 5159924198806068754
+    second: SteinformationenBLAUEingang_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4891e50d3ea04a4ead07feed7175e2a
+      internalID: -6430287141459126313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60051571d48a96849a9194cbb28741ff
+      internalID: -2481729165644884044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6426d6b7e1b497d4188a356cb8d00f75
+      internalID: -7987413447952532853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff038c5a47972479081a4ecb39cf81
+      internalID: 14384718310507046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2536cc2cea77df4c9eb16d5fc8d1b57
+      internalID: 1623680090294754083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6033f18ebf3046449b108f2a5b84bdfc
+      internalID: -6615079648544239277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469a6e20bee43ab4bbb5642d5551c266
+      internalID: 3316948899430260351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2818a9429757db942ab0d1c049648a1a
+      internalID: -9073596429772603736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c40d803bad456e45a962d0d9bf8c61a
+      internalID: -5134173745851735806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eab6168eee0ef4aaebd23bd16e9d80
+      internalID: -2577168188187993246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b790d1f712955479c447f6233e0859
+      internalID: -826161471175229916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a919612750f6bb549936f8225192db08
+      internalID: -8613404836502399621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d4b6174b642344fab83166eabe3b3b
+      internalID: -7938158873686204216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e8e91de403ae94a9b74ad385b6eddd
+      internalID: 708018745843434255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ebfb68c623e7c428e4beead57e977e
+      internalID: 7096668281988883540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b6be3069790bf4f8e0cc4739ea8345
+      internalID: 3105215755902465400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db56f729dd01d94daaaccd2e02e044f
+      internalID: 4028410478415647157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba7bb7ba3b3a724284dccc063c393b6
+      internalID: 5502319588017519693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb880f68185996478ecf8a4a82c0fc5
+      internalID: 8869828649014683371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51619e14e7e8b204c8a146bd8d984467
+      internalID: -4670933705838816825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180314e5e415c44494ef49923cb5e26
+      internalID: 4926385537217340871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b42d893cfbe7846bf8cb1d9a2968bc
+      internalID: -7644479464030297221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc018cd37242d458d487809c3b5e7a
+      internalID: 2369485161459655413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb0a96106c3b5d4185e9576713f41cf
+      internalID: 8330041183935563283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454c24cd862f56a49a96210c4c79c601
+      internalID: -5297284522029428182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3448362ca621ad74d97b2287793027fa
+      internalID: -3854491505841030039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a6d8483336ce7468e1080a19ea4dc8
+      internalID: -1558378673554969701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5648ad3492d1844a8f3bc82bbeaa9f6
+      internalID: 3593223652453099012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f3d033e047eb247ae0cd79debb7bba
+      internalID: -113693891750875177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5d1c3249ed4f24f8b0f0bb817a181f
+      internalID: -2728427254564180026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9209b63f768e014f83fcddc558fd1b3
+      internalID: 6790446835751313583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteinformationenBLAUEingang_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35331daae6123a478e6581826dd420b
+      internalID: 5159924198806068754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 830030db6ce4dd040a35a1dbefc64b3d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SteinformationenBLAUEingang_3: 14384718310507046
+      SteinformationenBLAUEingang_17: 5502319588017519693
+      SteinformationenBLAUEingang_23: 8330041183935563283
+      SteinformationenBLAUEingang_24: -5297284522029428182
+      SteinformationenBLAUEingang_12: -7938158873686204216
+      SteinformationenBLAUEingang_29: -2728427254564180026
+      SteinformationenBLAUEingang_22: 2369485161459655413
+      SteinformationenBLAUEingang_8: -5134173745851735806
+      SteinformationenBLAUEingang_21: -7644479464030297221
+      SteinformationenBLAUEingang_13: 708018745843434255
+      SteinformationenBLAUEingang_14: 7096668281988883540
+      SteinformationenBLAUEingang_2: -7987413447952532853
+      SteinformationenBLAUEingang_4: 1623680090294754083
+      SteinformationenBLAUEingang_19: -4670933705838816825
+      SteinformationenBLAUEingang_31: 5159924198806068754
+      SteinformationenBLAUEingang_11: -8613404836502399621
+      SteinformationenBLAUEingang_1: -2481729165644884044
+      SteinformationenBLAUEingang_0: -6430287141459126313
+      SteinformationenBLAUEingang_27: 3593223652453099012
+      SteinformationenBLAUEingang_16: 4028410478415647157
+      SteinformationenBLAUEingang_30: 6790446835751313583
+      SteinformationenBLAUEingang_28: -113693891750875177
+      SteinformationenBLAUEingang_6: 3316948899430260351
+      SteinformationenBLAUEingang_25: -3854491505841030039
+      SteinformationenBLAUEingang_18: 8869828649014683371
+      SteinformationenBLAUEingang_20: 4926385537217340871
+      SteinformationenBLAUEingang_7: -9073596429772603736
+      SteinformationenBLAUEingang_9: -2577168188187993246
+      SteinformationenBLAUEingang_10: -826161471175229916
+      SteinformationenBLAUEingang_26: -1558378673554969701
+      SteinformationenBLAUEingang_5: -6615079648544239277
+      SteinformationenBLAUEingang_15: 3105215755902465400
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

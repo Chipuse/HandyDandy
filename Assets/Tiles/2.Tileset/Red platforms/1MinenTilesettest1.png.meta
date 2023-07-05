@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: da20c26c195f58b42900bddbcb566a83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2974614770680092855
+    second: MinenTilesettest1_0
+  - first:
+      213: -5736795363930685332
+    second: MinenTilesettest1_1
+  - first:
+      213: 582862740684399475
+    second: MinenTilesettest1_2
+  - first:
+      213: 8027298493487602346
+    second: MinenTilesettest1_3
+  - first:
+      213: -6334498161124367152
+    second: MinenTilesettest1_4
+  - first:
+      213: 5727166858249609550
+    second: MinenTilesettest1_5
+  - first:
+      213: -170138827956996646
+    second: MinenTilesettest1_6
+  - first:
+      213: 653523798224402710
+    second: MinenTilesettest1_7
+  - first:
+      213: -5389408434358565552
+    second: MinenTilesettest1_8
+  - first:
+      213: -5398999394916677226
+    second: MinenTilesettest1_9
+  - first:
+      213: -1929268274039557052
+    second: MinenTilesettest1_10
+  - first:
+      213: -5478288194760177310
+    second: MinenTilesettest1_11
+  - first:
+      213: 8911641242373545734
+    second: MinenTilesettest1_12
+  - first:
+      213: -7264263283949442067
+    second: MinenTilesettest1_13
+  - first:
+      213: -3589124809295241908
+    second: MinenTilesettest1_14
+  - first:
+      213: -7308330876356254482
+    second: MinenTilesettest1_15
+  - first:
+      213: 3105372539999369460
+    second: MinenTilesettest1_16
+  - first:
+      213: 7872296723240767620
+    second: MinenTilesettest1_17
+  - first:
+      213: -1823163639722044708
+    second: MinenTilesettest1_18
+  - first:
+      213: 972974951720586899
+    second: MinenTilesettest1_19
+  - first:
+      213: -7386024272379092620
+    second: MinenTilesettest1_20
+  - first:
+      213: -4510726121676919145
+    second: MinenTilesettest1_21
+  - first:
+      213: 4380054109413234482
+    second: MinenTilesettest1_22
+  - first:
+      213: 1599541985944394710
+    second: MinenTilesettest1_23
+  - first:
+      213: 7811750680675819052
+    second: MinenTilesettest1_24
+  - first:
+      213: 1486143574390868853
+    second: MinenTilesettest1_25
+  - first:
+      213: 3012387847494654280
+    second: MinenTilesettest1_26
+  - first:
+      213: -4582187014289211496
+    second: MinenTilesettest1_27
+  - first:
+      213: -2547258810414923455
+    second: MinenTilesettest1_28
+  - first:
+      213: -5205012428598467906
+    second: MinenTilesettest1_29
+  - first:
+      213: -7542732721204657497
+    second: 1MinenTilesettest1_0
+  - first:
+      213: -5601606182547598080
+    second: 1MinenTilesettest1_1
+  - first:
+      213: 8080836783377378903
+    second: 1MinenTilesettest1_2
+  - first:
+      213: 8137496144508508503
+    second: 1MinenTilesettest1_3
+  - first:
+      213: 3244440439109067639
+    second: 1MinenTilesettest1_4
+  - first:
+      213: -3209938385330956515
+    second: 1MinenTilesettest1_5
+  - first:
+      213: 2118600152301739661
+    second: 1MinenTilesettest1_6
+  - first:
+      213: -8590776222598318628
+    second: 1MinenTilesettest1_7
+  - first:
+      213: 2121188671838859669
+    second: 1MinenTilesettest1_8
+  - first:
+      213: 7442514276535610724
+    second: 1MinenTilesettest1_9
+  - first:
+      213: 5553861335215717836
+    second: 1MinenTilesettest1_10
+  - first:
+      213: 1824376299304093384
+    second: 1MinenTilesettest1_11
+  - first:
+      213: -6779929977395012965
+    second: 1MinenTilesettest1_12
+  - first:
+      213: 7901182541954515559
+    second: 1MinenTilesettest1_13
+  - first:
+      213: 6672361115262838121
+    second: 1MinenTilesettest1_14
+  - first:
+      213: 8992596632436464772
+    second: 1MinenTilesettest1_15
+  - first:
+      213: 2040796776047976005
+    second: 1MinenTilesettest1_16
+  - first:
+      213: 450548053263000814
+    second: 1MinenTilesettest1_17
+  - first:
+      213: 667072397992238885
+    second: 1MinenTilesettest1_18
+  - first:
+      213: 9000293513483157955
+    second: 1MinenTilesettest1_19
+  - first:
+      213: 4885727546646715034
+    second: 1MinenTilesettest1_20
+  - first:
+      213: -1564609642017766311
+    second: 1MinenTilesettest1_21
+  - first:
+      213: -267852252854895007
+    second: 1MinenTilesettest1_22
+  - first:
+      213: -1575582181448245739
+    second: 1MinenTilesettest1_23
+  - first:
+      213: -360505526100064198
+    second: 1MinenTilesettest1_24
+  - first:
+      213: 7358063431711198399
+    second: 1MinenTilesettest1_25
+  - first:
+      213: -1139092903490253739
+    second: 1MinenTilesettest1_26
+  - first:
+      213: -9108209968968046142
+    second: 1MinenTilesettest1_27
+  - first:
+      213: -5256781580419585044
+    second: 1MinenTilesettest1_28
+  - first:
+      213: 8561764416799232382
+    second: 1MinenTilesettest1_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6556dc8acc66d548a1336195e6dad25
+      internalID: -7542732721204657497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdb781245b2db54a9de869a6b154dd3
+      internalID: -5601606182547598080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fd88552b936e3479537e4d800d1ee4
+      internalID: 8080836783377378903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefec4cd7a426654584d9bce8d4b1189
+      internalID: 8137496144508508503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f64896a924edb40ba6468697b7e085
+      internalID: 3244440439109067639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d99ebfc084b32a4996de2565d868c35
+      internalID: -3209938385330956515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231bae2430d55d44eb284ecb03e256b1
+      internalID: 2118600152301739661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b961f016488d4f89823df88ecc5d3
+      internalID: -8590776222598318628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e35ac39130dca4dafa387af1f1ea64
+      internalID: 2121188671838859669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48e03a98c8209442aef0482642c2255
+      internalID: 7442514276535610724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de574eed814bea743b1883583092dfcf
+      internalID: 5553861335215717836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecffad58e2513e7468dc828b21ae6e3f
+      internalID: 1824376299304093384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa5f5010e1c475478e4c3fa6b4eb82f
+      internalID: -6779929977395012965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f2ebd16b5fcb94083caf9ea47e1435
+      internalID: 7901182541954515559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d37d3c683b9a4780223907f2db980
+      internalID: 6672361115262838121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_15
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b131a105c3a20eb44aad86acad2003c7
+      internalID: 8992596632436464772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0929424ce50d5744b9c1aa90ed8dd843
+      internalID: 2040796776047976005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11fa523cdb8c8f40ad40d4f1785997c
+      internalID: 450548053263000814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a9388813f474b4bb3a2724e0c0c1cf
+      internalID: 667072397992238885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9283ea4117da26e4f9d254aed0d0e91c
+      internalID: 9000293513483157955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f1fc550a376534ab225cac74d219b2
+      internalID: 4885727546646715034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcebd3618a066d24893efbf67c3b7dc6
+      internalID: -1564609642017766311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_22
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5587845b15edc468f4ccdf8d15df54
+      internalID: -267852252854895007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_23
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1339d3d0e261f44ca29a720457c1e6a
+      internalID: -1575582181448245739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd66819837e5d343bb3b713a0fdb310
+      internalID: -360505526100064198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1401fa0e81cf47a4d7c4e9eeda1a2
+      internalID: 7358063431711198399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069c1130cc244004b89ee2faef30b92c
+      internalID: -1139092903490253739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_27
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67b215599a3f1a46804d0892a56e550
+      internalID: -9108209968968046142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22132cc4372e3b4aa2cc86a423dd900
+      internalID: -5256781580419585044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1MinenTilesettest1_29
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089adbc183223c543824baf5a907ca47
+      internalID: 8561764416799232382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d166ccce1ff4366458200f25abf47ac9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1MinenTilesettest1_22: -267852252854895007
+      1MinenTilesettest1_9: 7442514276535610724
+      1MinenTilesettest1_21: -1564609642017766311
+      1MinenTilesettest1_3: 8137496144508508503
+      1MinenTilesettest1_25: 7358063431711198399
+      1MinenTilesettest1_27: -9108209968968046142
+      1MinenTilesettest1_2: 8080836783377378903
+      1MinenTilesettest1_15: 8992596632436464772
+      1MinenTilesettest1_19: 9000293513483157955
+      1MinenTilesettest1_20: 4885727546646715034
+      1MinenTilesettest1_0: -7542732721204657497
+      1MinenTilesettest1_4: 3244440439109067639
+      1MinenTilesettest1_23: -1575582181448245739
+      1MinenTilesettest1_7: -8590776222598318628
+      1MinenTilesettest1_18: 667072397992238885
+      1MinenTilesettest1_8: 2121188671838859669
+      1MinenTilesettest1_11: 1824376299304093384
+      1MinenTilesettest1_5: -3209938385330956515
+      1MinenTilesettest1_17: 450548053263000814
+      1MinenTilesettest1_1: -5601606182547598080
+      1MinenTilesettest1_6: 2118600152301739661
+      1MinenTilesettest1_12: -6779929977395012965
+      1MinenTilesettest1_26: -1139092903490253739
+      1MinenTilesettest1_14: 6672361115262838121
+      1MinenTilesettest1_24: -360505526100064198
+      1MinenTilesettest1_16: 2040796776047976005
+      1MinenTilesettest1_28: -5256781580419585044
+      1MinenTilesettest1_29: 8561764416799232382
+      1MinenTilesettest1_10: 5553861335215717836
+      1MinenTilesettest1_13: 7901182541954515559
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

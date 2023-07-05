@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: 61a7c286af91b4744ac5b699fc1adb47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2679494331105568393
+    second: Menu UI Elements glow crystal_0
+  - first:
+      213: 6064078919737727292
+    second: Menu UI Elements glow crystal_1
+  - first:
+      213: 4732270140737564955
+    second: Menu UI Elements glow crystal_2
+  - first:
+      213: 5735220175925219615
+    second: Menu UI Elements glow crystal_3
+  - first:
+      213: 1551851876243363791
+    second: Menu UI Elements glow crystal_4
+  - first:
+      213: -1930499118826748873
+    second: Menu UI Elements glow crystal_5
+  - first:
+      213: -2680925896714637443
+    second: Menu UI Elements glow crystal_6
+  - first:
+      213: -9028496056362765355
+    second: Menu UI Elements glow crystal_7
+  - first:
+      213: 3581721577425120857
+    second: Menu UI Elements glow crystal_8
+  - first:
+      213: 2070056005812919747
+    second: Menu UI Elements glow crystal_9
+  - first:
+      213: -2185287776931986560
+    second: Menu UI Elements glow crystal_10
+  - first:
+      213: 5651787234404986305
+    second: Menu UI Elements glow crystal_11
+  - first:
+      213: -2066035624799017683
+    second: Menu UI Elements glow crystal_12
+  - first:
+      213: 520884843418600733
+    second: Menu UI Elements glow crystal_13
+  - first:
+      213: 6438040634815385541
+    second: Menu UI Elements glow crystal_14
+  - first:
+      213: 5629125557132627254
+    second: Menu UI Elements glow crystal_15
+  - first:
+      213: -5255844747236498962
+    second: Menu UI Elements glow crystal_16
+  - first:
+      213: -4468167586645402634
+    second: Menu UI Elements glow crystal_17
+  - first:
+      213: 5082651131203183952
+    second: Menu UI Elements glow crystal_18
+  - first:
+      213: 6690800369630228720
+    second: Menu UI Elements glow crystal_19
+  - first:
+      213: 2718627890892409020
+    second: Menu UI Elements glow crystal_20
+  - first:
+      213: 716715769954256999
+    second: Menu UI Elements glow crystal_21
+  - first:
+      213: -3506860819362378240
+    second: Menu UI Elements glow crystal_22
+  - first:
+      213: 5204016058055424385
+    second: Menu UI Elements glow crystal_23
+  - first:
+      213: 5571094389944930213
+    second: Menu UI Elements glow crystal_24
+  - first:
+      213: 6953099607175443593
+    second: Menu UI Elements glow crystal_25
+  - first:
+      213: -8189445621614480178
+    second: Menu UI Elements glow crystal_26
+  - first:
+      213: -8478445314783085106
+    second: Menu UI Elements glow crystal_27
+  - first:
+      213: 2520456568996547686
+    second: Menu UI Elements glow crystal_28
+  - first:
+      213: 7488698641663404773
+    second: Menu UI Elements glow crystal_29
+  - first:
+      213: 8098071916089620327
+    second: Menu UI Elements glow crystal_30
+  - first:
+      213: -1705998931039925493
+    second: Menu UI Elements glow crystal_31
+  - first:
+      213: 853424506090152995
+    second: Menu UI Elements glow crystal_32
+  - first:
+      213: 7773130634259296882
+    second: Menu UI Elements glow crystal_33
+  - first:
+      213: 4613696752389884540
+    second: Menu UI Elements glow crystal_34
+  - first:
+      213: -8088099491557217949
+    second: Menu UI Elements glow crystal_35
+  - first:
+      213: -2109643019579019949
+    second: Menu UI Elements glow crystal_36
+  - first:
+      213: 3770910634744650989
+    second: Menu UI Elements glow crystal_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu UI Elements glow crystal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f1b630d78e0b64891d4b86e3f9b224
+      internalID: 2679494331105568393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu UI Elements glow crystal_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 850
+        width: 550
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632c0b4b4b6722b46b0c410c7a0b9319
+      internalID: 6064078919737727292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu UI Elements glow crystal_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 640
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e9f5bfae7dba4386197cc0e4f3af3
+      internalID: 4732270140737564955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu UI Elements glow crystal_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 950
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d4be5f399b224baecf92f13274b1b
+      internalID: 5735220175925219615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu UI Elements glow crystal_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 362
+        width: 20
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5c289a373182840aba47a43eb2cff2
+      internalID: 1551851876243363791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu UI Elements glow crystal_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1030
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67f613505a5bfc4c99a6707003b02b7
+      internalID: -1930499118826748873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 644aae751024e4845af6d4d2219e22f5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Menu UI Elements glow crystal_0: 2679494331105568393
+      Menu UI Elements glow crystal_3: 5735220175925219615
+      Menu UI Elements glow crystal_5: -1930499118826748873
+      Menu UI Elements glow crystal_4: 1551851876243363791
+      Menu UI Elements glow crystal_2: 4732270140737564955
+      Menu UI Elements glow crystal_1: 6064078919737727292
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

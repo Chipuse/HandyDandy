@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: 22eaa20a42ba0704199b211c3aed50e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1460175993117469829
+    second: Deko4 Fassvariationen_0
+  - first:
+      213: -4790446574545760959
+    second: Deko4 Fassvariationen_1
+  - first:
+      213: 1482369555974806527
+    second: Deko4 Fassvariationen_2
+  - first:
+      213: 5171411386736440582
+    second: Deko4 Fassvariationen_3
+  - first:
+      213: -5565726303996749249
+    second: Deko4 Fassvariationen_4
+  - first:
+      213: -2672204082997170280
+    second: Deko4 Fassvariationen_5
+  - first:
+      213: 4398874706626502503
+    second: Deko4 Fassvariationen_6
+  - first:
+      213: 396470634936825212
+    second: Deko4 Fassvariationen_7
+  - first:
+      213: -1354644423500993853
+    second: Deko4 Fassvariationen_8
+  - first:
+      213: 703294248265205971
+    second: Deko4 Fassvariationen_9
+  - first:
+      213: 3562462522740374711
+    second: Deko4 Fassvariationen_10
+  - first:
+      213: -7901485895156455577
+    second: Deko4 Fassvariationen_11
+  - first:
+      213: 6871894772804077746
+    second: Deko4 Fassvariationen_12
+  - first:
+      213: -1845195917386982927
+    second: Deko4 Fassvariationen_13
+  - first:
+      213: -8580311463223999941
+    second: Deko4 Fassvariationen_14
+  - first:
+      213: 7920417936538032086
+    second: Deko4 Fassvariationen_15
+  - first:
+      213: -2741200057816286362
+    second: Deko4 Fassvariationen_16
+  - first:
+      213: -7397619605268691345
+    second: Deko4 Fassvariationen_17
+  - first:
+      213: 3509646127449780274
+    second: Deko4 Fassvariationen_18
+  - first:
+      213: -7041555226777027733
+    second: Deko4 Fassvariationen_19
+  - first:
+      213: -8805954935860999782
+    second: Deko4 Fassvariationen_20
+  - first:
+      213: 664299364418133575
+    second: Deko4 Fassvariationen_21
+  - first:
+      213: -5798782039265453972
+    second: Deko4 Fassvariationen_22
+  - first:
+      213: -4879852692861674275
+    second: Deko4 Fassvariationen_23
+  - first:
+      213: 4180663823107865985
+    second: Deko4 Fassvariationen_24
+  - first:
+      213: 5023376623543003438
+    second: Deko4 Fassvariationen_25
+  - first:
+      213: -9218879034716991838
+    second: Deko4 Fassvariationen_26
+  - first:
+      213: -6511491582341745449
+    second: Deko4 Fassvariationen_27
+  - first:
+      213: 1030715168374851257
+    second: Deko4 Fassvariationen_28
+  - first:
+      213: 3147071627146039589
+    second: Deko4 Fassvariationen_29
+  - first:
+      213: 4574208565674208357
+    second: Deko4 Fassvariationen_30
+  - first:
+      213: 7157881665267661965
+    second: Deko4 Fassvariationen_31
+  - first:
+      213: -1151492773339019004
+    second: Deko4 Fassvariationen_32
+  - first:
+      213: -4605462226419440449
+    second: Deko4 Fassvariationen_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03618c316f50db745baa89dda5b90464
+      internalID: 1460175993117469829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3854be4f67f3f54c8871844f7a212c9
+      internalID: -4790446574545760959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e630a3229022139429ba5dfeff0083f9
+      internalID: 1482369555974806527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835f990adf74b6442b57de23044090d2
+      internalID: 5171411386736440582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3cdf7baecb97d4b95493655c451dd3
+      internalID: -5565726303996749249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc299b5a98b4f344ae9ae1b434ebb33
+      internalID: -2672204082997170280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b5e78d055c834e97ace677c84e0e1
+      internalID: 4398874706626502503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8c792d4e3b245499dfb62b36d57745
+      internalID: 396470634936825212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c5b73c0148724ca6b9f7dfd1a8f41
+      internalID: -1354644423500993853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff40c058d050c49a85f26b56e029b7
+      internalID: 703294248265205971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f4a228c99c61f4cbabde90b184f3ed
+      internalID: 3562462522740374711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e72428d74357164f9f5b77e0ec44586
+      internalID: -7901485895156455577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3461111c67dc4f8e11a8e3cd8c05c
+      internalID: 6871894772804077746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec24de576abfd2b4c818ab231fe2442f
+      internalID: -1845195917386982927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4262cda9212248ba198f423a513f4
+      internalID: -8580311463223999941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c759e93b4b952374fbfaceb9af24546c
+      internalID: 7920417936538032086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee4308925f4c184aa08053114c5af33
+      internalID: -2741200057816286362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4ca28f3afe4c642babd650dcb1199e
+      internalID: -7397619605268691345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeb2c8182206404caa31ae3788c481b
+      internalID: 3509646127449780274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc7de312eb7e29499947c8ea911a224
+      internalID: -7041555226777027733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a836db76afed74992d1710f8910bb1
+      internalID: -8805954935860999782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51b9c7045429264ebcc9ba01248e306
+      internalID: 664299364418133575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_22
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541865193d9f06844880f8409b57b6a7
+      internalID: -5798782039265453972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0498523980e56bc40a32c018cee7dae6
+      internalID: -4879852692861674275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043113ca4c24d541a757e65425245d0
+      internalID: 4180663823107865985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af97da98ae0bef74d89357f37b11b998
+      internalID: 5023376623543003438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee610f803b79de47be389ce58fbc2b7
+      internalID: -9218879034716991838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e653e848a24760409813703ad201339
+      internalID: -6511491582341745449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac19ffd2d5e2b41a63d3ee3c5b3712
+      internalID: 1030715168374851257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aaee7f6d67a804f8d40d4cd5de1808
+      internalID: 3147071627146039589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af636597c173f064a82a1058cfcfb244
+      internalID: 4574208565674208357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025a93c10809b974583dc7c2e925cc22
+      internalID: 7157881665267661965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_32
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a56157d53ad864a9d1cdc4f77d394b
+      internalID: -1151492773339019004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko4 Fassvariationen_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ae7ce6a1efcf4b9dc0695410eb3db
+      internalID: -4605462226419440449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e4717bd6113eaf24abc5438125d68730
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Deko4 Fassvariationen_10: 3562462522740374711
+      Deko4 Fassvariationen_32: -1151492773339019004
+      Deko4 Fassvariationen_26: -9218879034716991838
+      Deko4 Fassvariationen_5: -2672204082997170280
+      Deko4 Fassvariationen_29: 3147071627146039589
+      Deko4 Fassvariationen_1: -4790446574545760959
+      Deko4 Fassvariationen_9: 703294248265205971
+      Deko4 Fassvariationen_22: -5798782039265453972
+      Deko4 Fassvariationen_24: 4180663823107865985
+      Deko4 Fassvariationen_11: -7901485895156455577
+      Deko4 Fassvariationen_3: 5171411386736440582
+      Deko4 Fassvariationen_21: 664299364418133575
+      Deko4 Fassvariationen_28: 1030715168374851257
+      Deko4 Fassvariationen_17: -7397619605268691345
+      Deko4 Fassvariationen_2: 1482369555974806527
+      Deko4 Fassvariationen_12: 6871894772804077746
+      Deko4 Fassvariationen_23: -4879852692861674275
+      Deko4 Fassvariationen_33: -4605462226419440449
+      Deko4 Fassvariationen_0: 1460175993117469829
+      Deko4 Fassvariationen_7: 396470634936825212
+      Deko4 Fassvariationen_8: -1354644423500993853
+      Deko4 Fassvariationen_25: 5023376623543003438
+      Deko4 Fassvariationen_13: -1845195917386982927
+      Deko4 Fassvariationen_6: 4398874706626502503
+      Deko4 Fassvariationen_27: -6511491582341745449
+      Deko4 Fassvariationen_30: 4574208565674208357
+      Deko4 Fassvariationen_4: -5565726303996749249
+      Deko4 Fassvariationen_15: 7920417936538032086
+      Deko4 Fassvariationen_20: -8805954935860999782
+      Deko4 Fassvariationen_19: -7041555226777027733
+      Deko4 Fassvariationen_18: 3509646127449780274
+      Deko4 Fassvariationen_16: -2741200057816286362
+      Deko4 Fassvariationen_31: 7157881665267661965
+      Deko4 Fassvariationen_14: -8580311463223999941
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

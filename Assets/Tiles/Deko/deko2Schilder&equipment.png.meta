@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 37bf5d2b1dc35b04ea1c5bfba87369fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5785101507668328977
+    second: deko2Schilder&equipment_0
+  - first:
+      213: 2628315623813229588
+    second: deko2Schilder&equipment_1
+  - first:
+      213: 2648904835702652116
+    second: deko2Schilder&equipment_2
+  - first:
+      213: -250325453280448238
+    second: deko2Schilder&equipment_3
+  - first:
+      213: 5674195554789853520
+    second: deko2Schilder&equipment_4
+  - first:
+      213: 5994357562364782457
+    second: deko2Schilder&equipment_5
+  - first:
+      213: -187247388132069983
+    second: deko2Schilder&equipment_6
+  - first:
+      213: 2620166961444566727
+    second: deko2Schilder&equipment_7
+  - first:
+      213: 4321327535229072361
+    second: deko2Schilder&equipment_8
+  - first:
+      213: -192996317829046296
+    second: deko2Schilder&equipment_9
+  - first:
+      213: -2804713873050349908
+    second: deko2Schilder&equipment_10
+  - first:
+      213: -6433623135577762339
+    second: deko2Schilder&equipment_11
+  - first:
+      213: 6261614001796030958
+    second: deko2Schilder&equipment_12
+  - first:
+      213: -2774795701819887473
+    second: deko2Schilder&equipment_13
+  - first:
+      213: 6985087086423182613
+    second: deko2Schilder&equipment_14
+  - first:
+      213: 8027184659013079915
+    second: deko2Schilder&equipment_15
+  - first:
+      213: -4467127868677868629
+    second: deko2Schilder&equipment_16
+  - first:
+      213: -1935469523399272613
+    second: deko2Schilder&equipment_17
+  - first:
+      213: -684615970467608846
+    second: deko2Schilder&equipment_18
+  - first:
+      213: 8916913911009461473
+    second: deko2Schilder&equipment_19
+  - first:
+      213: 4019169305129693524
+    second: deko2Schilder&equipment_20
+  - first:
+      213: 6902560470735022223
+    second: deko2Schilder&equipment_21
+  - first:
+      213: -9006713942010656300
+    second: deko2Schilder&equipment_22
+  - first:
+      213: 8885160426956253198
+    second: deko2Schilder&equipment_23
+  - first:
+      213: 5410519110432250577
+    second: deko2Schilder&equipment_24
+  - first:
+      213: 5853312201662334643
+    second: deko2Schilder&equipment_25
+  - first:
+      213: -5062918209270829976
+    second: deko2Schilder&equipment_26
+  - first:
+      213: 4641583652430117104
+    second: deko2Schilder&equipment_27
+  - first:
+      213: 6065220084255633222
+    second: deko2Schilder&equipment_28
+  - first:
+      213: -3122352422460386431
+    second: deko2Schilder&equipment_29
+  - first:
+      213: 5553877920006013900
+    second: deko2Schilder&equipment_30
+  - first:
+      213: 3869513408748236020
+    second: deko2Schilder&equipment_31
+  - first:
+      213: -446520656770069595
+    second: deko2Schilder&equipment_32
+  - first:
+      213: 2277369524182808997
+    second: deko2Schilder&equipment_33
+  - first:
+      213: -2589810018153201454
+    second: deko2Schilder&equipment_34
+  - first:
+      213: 501914129501871022
+    second: deko2Schilder&equipment_35
+  - first:
+      213: 2399840972180864319
+    second: deko2Schilder&equipment_36
+  - first:
+      213: 868413972175619321
+    second: deko2Schilder&equipment_37
+  - first:
+      213: 2228600245122498463
+    second: deko2Schilder&equipment_38
+  - first:
+      213: 3314130046863860012
+    second: deko2Schilder&equipment_39
+  - first:
+      213: -1116849866579091185
+    second: deko2Schilder&equipment_40
+  - first:
+      213: 5659489208175981419
+    second: deko2Schilder&equipment_41
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda42a9afd539ef43a797c6c83c995e1
+      internalID: 5785101507668328977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fdc3c1b7b9d094e9b0eefcf02db888
+      internalID: 2628315623813229588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b556d45506a52ac4a8b55159358c127d
+      internalID: 2648904835702652116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c9fdc1460b84d459920c7c7074bcbc
+      internalID: -250325453280448238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd1f08fb7869804cbe6cb9ff2b6039c
+      internalID: 5674195554789853520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7078f13ba8e7ffd46b7c5c7a73796ba9
+      internalID: 5994357562364782457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb7bdcf3b3d6244b87e9ea472a3561c
+      internalID: -187247388132069983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20edb038d3854e545bb958d14c679e03
+      internalID: 2620166961444566727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f534a289590ff4894f1ae9d480db4f
+      internalID: 4321327535229072361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e189e4d7cbe4ae4dbf89a28a4fcbc27
+      internalID: -192996317829046296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b25c588d308ea348a1b2dd1be2c45fa
+      internalID: -2804713873050349908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d364c72ba4f69544caf11b814889ed97
+      internalID: -6433623135577762339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ddc49fa89ac0e45bf17f798b25433e
+      internalID: 6261614001796030958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c207747e9edad1e4d834a78f356b98c4
+      internalID: -2774795701819887473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5ad3f39b8d2d04da6bc749169f543f
+      internalID: 6985087086423182613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8a57878beb6b04b9aca82ce11f746a
+      internalID: 8027184659013079915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc5ca4627869c04390f010c7928b6c9
+      internalID: -4467127868677868629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_17
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31edc991c9e2bb4886682a458b42571
+      internalID: -1935469523399272613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38abb5ce926e8764dbcc13a8e950edfb
+      internalID: -684615970467608846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bf860de25ae3f4db00f3215aa21241
+      internalID: 8916913911009461473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_20
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e4b651111ba504996c118bd978801f
+      internalID: 4019169305129693524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662ce292dcb70d145bb79d4e5129742e
+      internalID: 6902560470735022223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac1e94c8d973da468a3afdab0538107
+      internalID: -9006713942010656300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d8c909ab33e4b429ad8addfd52ccd2
+      internalID: 8885160426956253198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13701d31e18750340a2f9bd320319f14
+      internalID: 5410519110432250577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70165dc2c159a0458491d858a5a7a94
+      internalID: 5853312201662334643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090ecea4c2f387045a4b94ce7b377dd6
+      internalID: -5062918209270829976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_27
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762450718c16fbc4ba684f5aac55cffb
+      internalID: 4641583652430117104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db9955fd6649e04294ee51961f0ddba
+      internalID: 6065220084255633222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce517968b7967a46ae251202d94f007
+      internalID: -3122352422460386431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36488528b8aeda40b713c18bae46a98
+      internalID: 5553877920006013900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_31
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a17e7c14046445824aef4aec8c2a4
+      internalID: 3869513408748236020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7f571ead57c34f82319108d674785
+      internalID: -446520656770069595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b05d9ab8a57db42a58530c10348153
+      internalID: 2277369524182808997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_34
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597e1aa2c207a2d4a9374c55b1abd596
+      internalID: -2589810018153201454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d668ef7b7f0c634da984c2ec6446bac
+      internalID: 501914129501871022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27d2bf0bf453df49aa4243de7a1aab2
+      internalID: 2399840972180864319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c5ad574dae4d54a8834fcd42dc06a8
+      internalID: 868413972175619321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9e59c291ac32c4dbe7f3e544353e31
+      internalID: 2228600245122498463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_39
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551c7a2ce605fe34f993cf311c1a6ba8
+      internalID: 3314130046863860012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_40
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd2ac9bae8bb3946b11e751c38b35b4
+      internalID: -1116849866579091185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deko2Schilder&equipment_41
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010b4552f3a89334d9f9cc0443c8d3dd
+      internalID: 5659489208175981419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a763d9c8b038f88499466426042092e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      deko2Schilder&equipment_17: -1935469523399272613
+      deko2Schilder&equipment_39: 3314130046863860012
+      deko2Schilder&equipment_37: 868413972175619321
+      deko2Schilder&equipment_34: -2589810018153201454
+      deko2Schilder&equipment_0: 5785101507668328977
+      deko2Schilder&equipment_9: -192996317829046296
+      deko2Schilder&equipment_7: 2620166961444566727
+      deko2Schilder&equipment_2: 2648904835702652116
+      deko2Schilder&equipment_10: -2804713873050349908
+      deko2Schilder&equipment_23: 8885160426956253198
+      deko2Schilder&equipment_19: 8916913911009461473
+      deko2Schilder&equipment_22: -9006713942010656300
+      deko2Schilder&equipment_25: 5853312201662334643
+      deko2Schilder&equipment_29: -3122352422460386431
+      deko2Schilder&equipment_31: 3869513408748236020
+      deko2Schilder&equipment_41: 5659489208175981419
+      deko2Schilder&equipment_11: -6433623135577762339
+      deko2Schilder&equipment_36: 2399840972180864319
+      deko2Schilder&equipment_12: 6261614001796030958
+      deko2Schilder&equipment_3: -250325453280448238
+      deko2Schilder&equipment_1: 2628315623813229588
+      deko2Schilder&equipment_13: -2774795701819887473
+      deko2Schilder&equipment_18: -684615970467608846
+      deko2Schilder&equipment_30: 5553877920006013900
+      deko2Schilder&equipment_20: 4019169305129693524
+      deko2Schilder&equipment_33: 2277369524182808997
+      deko2Schilder&equipment_35: 501914129501871022
+      deko2Schilder&equipment_40: -1116849866579091185
+      deko2Schilder&equipment_16: -4467127868677868629
+      deko2Schilder&equipment_21: 6902560470735022223
+      deko2Schilder&equipment_6: -187247388132069983
+      deko2Schilder&equipment_14: 6985087086423182613
+      deko2Schilder&equipment_15: 8027184659013079915
+      deko2Schilder&equipment_8: 4321327535229072361
+      deko2Schilder&equipment_26: -5062918209270829976
+      deko2Schilder&equipment_27: 4641583652430117104
+      deko2Schilder&equipment_24: 5410519110432250577
+      deko2Schilder&equipment_38: 2228600245122498463
+      deko2Schilder&equipment_32: -446520656770069595
+      deko2Schilder&equipment_4: 5674195554789853520
+      deko2Schilder&equipment_5: 5994357562364782457
+      deko2Schilder&equipment_28: 6065220084255633222
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

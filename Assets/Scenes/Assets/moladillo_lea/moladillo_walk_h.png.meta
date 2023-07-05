@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 1a926a6d5473d0347a33f2359972f6d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1342350399503681464
+    second: moladillo_walk_h_0
+  - first:
+      213: 1568997609995306686
+    second: moladillo_walk_h_1
+  - first:
+      213: -7609615909802613961
+    second: moladillo_walk_h_2
+  - first:
+      213: 1706442981166533886
+    second: moladillo_walk_h_3
+  - first:
+      213: 4653731986047029477
+    second: moladillo_walk_h_4
+  - first:
+      213: -8323547905040776189
+    second: moladillo_walk_h_5
+  - first:
+      213: 4038372245816644125
+    second: moladillo_walk_h_6
+  - first:
+      213: -6499945211689145424
+    second: moladillo_walk_h_7
+  - first:
+      213: -7468445073907834050
+    second: moladillo_walk_h_8
+  - first:
+      213: 9054952762111362562
+    second: moladillo_walk_h_9
+  - first:
+      213: -7998864078096625294
+    second: moladillo_walk_h_10
+  - first:
+      213: 5802913619994065387
+    second: moladillo_walk_h_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 240
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moladillo_walk_h_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 382
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52645cc6417ec142b75e81334c9db76
+      internalID: -1342350399503681464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_1
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 5
+        width: 347
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd94d56f7aab36498addb60953aed69
+      internalID: 1568997609995306686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_2
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 10
+        width: 366
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c982ae2dc400a4c8f4adc2f380f337
+      internalID: -7609615909802613961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_3
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 15
+        width: 376
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adbc9b23f4484a4cbe035ee2e96a073
+      internalID: 1706442981166533886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_4
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1
+        width: 366
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fa655ff5be5f641bc91cc9817a63fe
+      internalID: 4653731986047029477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_5
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2
+        width: 348
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef3eebce0e6cd44ca189f14fad906e0
+      internalID: -8323547905040776189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_6
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 0
+        width: 382
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b32b8aef87e9234ba222f5bcf3b4a27
+      internalID: 4038372245816644125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_7
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 5
+        width: 347
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c36480cbb3ee34ea4add9a8f04c552
+      internalID: -6499945211689145424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_8
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 10
+        width: 366
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b1f13f5cdfd8f4b84503254d87a38c
+      internalID: -7468445073907834050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_9
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 15
+        width: 376
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5412cedf51cb14d48a4d9749d09fc27b
+      internalID: 9054952762111362562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_10
+      rect:
+        serializedVersion: 2
+        x: 5061
+        y: 1
+        width: 366
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feaf32b475b67b40b79e0b9380f7388
+      internalID: -7998864078096625294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moladillo_walk_h_11
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 2
+        width: 348
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd934bf2be197e44ab9b0761e96823f
+      internalID: 5802913619994065387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9446f57a6be754b418ba549c308aac61
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      moladillo_walk_h_7: -6499945211689145424
+      moladillo_walk_h_4: 4653731986047029477
+      moladillo_walk_h_9: 9054952762111362562
+      moladillo_walk_h_5: -8323547905040776189
+      moladillo_walk_h_6: 4038372245816644125
+      moladillo_walk_h_10: -7998864078096625294
+      moladillo_walk_h_3: 1706442981166533886
+      moladillo_walk_h_2: -7609615909802613961
+      moladillo_walk_h_1: 1568997609995306686
+      moladillo_walk_h_11: 5802913619994065387
+      moladillo_walk_h_0: -1342350399503681464
+      moladillo_walk_h_8: -7468445073907834050
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

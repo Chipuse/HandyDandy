@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: cac30d20f13b9e4418910b685e7f5aed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 931936839609243716
+    second: 2MinenTilesetBlau2_0
+  - first:
+      213: -6891023442001621573
+    second: 2MinenTilesetBlau2_1
+  - first:
+      213: 2310659288289654268
+    second: 2MinenTilesetBlau2_2
+  - first:
+      213: -5794450014893084166
+    second: 2MinenTilesetBlau2_3
+  - first:
+      213: -4612978834774497944
+    second: 2MinenTilesetBlau2_4
+  - first:
+      213: -1405517576617633437
+    second: 2MinenTilesetBlau2_5
+  - first:
+      213: -567445863944230684
+    second: 2MinenTilesetBlau2_6
+  - first:
+      213: -500236738056537403
+    second: 2MinenTilesetBlau2_7
+  - first:
+      213: 7334878278110139856
+    second: 2MinenTilesetBlau2_8
+  - first:
+      213: 5114831718381450
+    second: 2MinenTilesetBlau2_9
+  - first:
+      213: -1972111041891272187
+    second: 2MinenTilesetBlau2_10
+  - first:
+      213: -3242203772450859120
+    second: 2MinenTilesetBlau2_11
+  - first:
+      213: 724983170131801378
+    second: 2MinenTilesetBlau2_12
+  - first:
+      213: 427268373913442109
+    second: 2MinenTilesetBlau2_13
+  - first:
+      213: 3228869397789577957
+    second: 2MinenTilesetBlau2_14
+  - first:
+      213: -7622649484761893882
+    second: 2MinenTilesetBlau2_15
+  - first:
+      213: 8936677725720494594
+    second: 2MinenTilesetBlau2_16
+  - first:
+      213: -4440777887979053066
+    second: 2MinenTilesetBlau2_17
+  - first:
+      213: 5488712858146141551
+    second: 2MinenTilesetBlau2_18
+  - first:
+      213: -2795825803169890051
+    second: 2MinenTilesetBlau2_19
+  - first:
+      213: 7860290475971918625
+    second: 2MinenTilesetBlau2_20
+  - first:
+      213: -1538388644812227609
+    second: 2MinenTilesetBlau2_21
+  - first:
+      213: 7174778244316144970
+    second: 2MinenTilesetBlau2_22
+  - first:
+      213: -3645351385557320324
+    second: 2MinenTilesetBlau2_23
+  - first:
+      213: 7332338265878560216
+    second: 2MinenTilesetBlau2_24
+  - first:
+      213: 813539058466734948
+    second: 2MinenTilesetBlau2_25
+  - first:
+      213: 3270714034735088901
+    second: 2MinenTilesetBlau2_26
+  - first:
+      213: -2320745522533157451
+    second: 2MinenTilesetBlau2_27
+  - first:
+      213: 8019081188965107751
+    second: 2MinenTilesetBlau2_28
+  - first:
+      213: -7573666453334240084
+    second: 2MinenTilesetBlau2_29
+  - first:
+      213: 5173679776213619645
+    second: 2MinenTilesetBlau2_30
+  - first:
+      213: 3676251931046446107
+    second: 2MinenTilesetBlau2_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a56680755dd4774c92005d4297ee342
+      internalID: 931936839609243716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d261404e8ec06489cadbf58aa95659
+      internalID: -6891023442001621573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e224c712dd0e42a23a8da37739d3f
+      internalID: 2310659288289654268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c17f53acfe851f4188fe145447ae426
+      internalID: -5794450014893084166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70140cd520cf2084a9f1ef0bbe09fd0a
+      internalID: -4612978834774497944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cb28bde77384a4080571affb9d6fee
+      internalID: -1405517576617633437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce9e3b014e8acc4e973654bded3226b
+      internalID: -567445863944230684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b653e04dafa7b2048a2be4bdc5d396f0
+      internalID: -500236738056537403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1677b2a651f8f4886fe460bdd4dc09
+      internalID: 7334878278110139856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_9
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156cb08595fd8894c8a725721422d32f
+      internalID: 5114831718381450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_10
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd2fb291ee4f8a41b2e54ba941f317a
+      internalID: -1972111041891272187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ba3b93942c86a48b7f442fba419c45
+      internalID: -3242203772450859120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31834b643edb31408169f714b32107c
+      internalID: 724983170131801378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73d96790dce985409ad4fce99db4d92
+      internalID: 427268373913442109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17637a88aeceeaa4ba450564162d8350
+      internalID: 3228869397789577957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408049ee1fddb7c49adf17a94fb3b06d
+      internalID: -7622649484761893882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61db0356ef602044395980f3538ccd2e
+      internalID: 8936677725720494594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78afabba537af542b737f8db800bd8d
+      internalID: -4440777887979053066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1dfa3c927903c4596b7f402a8d3bd3
+      internalID: 5488712858146141551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e31cbadc9b6dc4c9dee19675ecb8ff
+      internalID: -2795825803169890051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff667abfacf26e8408925b96ef5f573d
+      internalID: 7860290475971918625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f617aaa04c077d4db5aeba321fb887e
+      internalID: -1538388644812227609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e68fc6e930bb249bd91ab5085a66c5
+      internalID: 7174778244316144970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2fcfd794106484cbbc0e9ffc0f3a48
+      internalID: -3645351385557320324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41389d69ca257b41ad637d2517e1829
+      internalID: 7332338265878560216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_25
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7781a482f9d20c745a2c98af4656b32f
+      internalID: 813539058466734948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2bc05d54f43724eb3ad50a347586f7
+      internalID: 3270714034735088901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3187265e7f55c4b829fc3ffecf8100
+      internalID: -2320745522533157451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_28
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a76259f8cae84a9c6340ce90e9c8a
+      internalID: 8019081188965107751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_29
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01566d725b2acdd47af884a6c4e96b56
+      internalID: -7573666453334240084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b64a74477541d409633d011dbf35e3
+      internalID: 5173679776213619645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2MinenTilesetBlau2_31
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d3dccfed76f6048aac7998f1357266
+      internalID: 3676251931046446107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa101d8e9e6e92a40a72e6f5e396e2ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2MinenTilesetBlau2_9: 5114831718381450
+      2MinenTilesetBlau2_13: 427268373913442109
+      2MinenTilesetBlau2_27: -2320745522533157451
+      2MinenTilesetBlau2_24: 7332338265878560216
+      2MinenTilesetBlau2_25: 813539058466734948
+      2MinenTilesetBlau2_2: 2310659288289654268
+      2MinenTilesetBlau2_22: 7174778244316144970
+      2MinenTilesetBlau2_12: 724983170131801378
+      2MinenTilesetBlau2_31: 3676251931046446107
+      2MinenTilesetBlau2_30: 5173679776213619645
+      2MinenTilesetBlau2_0: 931936839609243716
+      2MinenTilesetBlau2_16: 8936677725720494594
+      2MinenTilesetBlau2_4: -4612978834774497944
+      2MinenTilesetBlau2_7: -500236738056537403
+      2MinenTilesetBlau2_14: 3228869397789577957
+      2MinenTilesetBlau2_23: -3645351385557320324
+      2MinenTilesetBlau2_28: 8019081188965107751
+      2MinenTilesetBlau2_17: -4440777887979053066
+      2MinenTilesetBlau2_18: 5488712858146141551
+      2MinenTilesetBlau2_10: -1972111041891272187
+      2MinenTilesetBlau2_26: 3270714034735088901
+      2MinenTilesetBlau2_11: -3242203772450859120
+      2MinenTilesetBlau2_15: -7622649484761893882
+      2MinenTilesetBlau2_21: -1538388644812227609
+      2MinenTilesetBlau2_20: 7860290475971918625
+      2MinenTilesetBlau2_8: 7334878278110139856
+      2MinenTilesetBlau2_29: -7573666453334240084
+      2MinenTilesetBlau2_1: -6891023442001621573
+      2MinenTilesetBlau2_19: -2795825803169890051
+      2MinenTilesetBlau2_5: -1405517576617633437
+      2MinenTilesetBlau2_3: -5794450014893084166
+      2MinenTilesetBlau2_6: -567445863944230684
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

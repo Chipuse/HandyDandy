@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Lamp
+  - Player1
+  - Player2
+  - Button
+  - Button1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - rotate
+  - walls
+  - player
+  - player2
+  - blueobj
+  - redobj
+  - 
+  - Creature
+  - Minecart
+  - MinecartBorders
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - seperateLine
+  - winningLamp
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: backgrounds
+    uniqueID: 2738767201
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Dust an Effects
+    uniqueID: 2293204531
+    locked: 0
+  - name: Crystal
+    uniqueID: 3861550263
+    locked: 0
+  - name: Border
+    uniqueID: 838231893
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1123715141
+    locked: 0

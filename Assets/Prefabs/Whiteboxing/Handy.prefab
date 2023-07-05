@@ -1,0 +1,288 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8757843505167396257
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8893008024442072871}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8893008024442072871
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8757843505167396257}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.8, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 9100513128603103723}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9100513128603103718
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9100513128603103723}
+  - component: {fileID: 9100513128603103722}
+  - component: {fileID: 9100513128603103721}
+  - component: {fileID: 9100513128603103720}
+  - component: {fileID: 9100513128603103719}
+  - component: {fileID: 7590027857129425638}
+  - component: {fileID: 470888712}
+  - component: {fileID: 1662025395}
+  m_Layer: 11
+  m_Name: Handy
+  m_TagString: Player2
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9100513128603103723
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100513128603103718}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8893008024442072871}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &9100513128603103722
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100513128603103718}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -231573050423876053, guid: 64ec0c65716a9384fb45a64c4e987c37,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.25, y: 1.25}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 2
+  m_SpriteSortPoint: 1
+--- !u!61 &9100513128603103721
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100513128603103718}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 1
+  m_Offset: {x: 0, y: -0.04}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.7, y: 1.7680664}
+    newSize: {x: 1.25, y: 1.25}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.6, y: 1.65}
+  m_EdgeRadius: 0
+--- !u!114 &9100513128603103720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100513128603103718}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27e3258c1703f3c4895908bb9c2f5800, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 7590027857129425638}
+  spriteRenderer: {fileID: 9100513128603103722}
+  player: 2
+  boxCollider: {fileID: 9100513128603103721}
+  groundCollider: {fileID: 9100513128603103721}
+  groundCheck: {fileID: 9100513128603103723}
+  m_MaxSpeed: 4
+  m_JumpForce: 700
+  m_Grounded: 0
+  mask:
+    serializedVersion: 2
+    m_Bits: 103424
+  wallsMask:
+    serializedVersion: 2
+    m_Bits: 0
+  rayCollider: {fileID: 0}
+  groundDistance: 0.02
+  maxFallSpeed: 15.5
+  gravityThreshold: 1
+  peakGravity: 1.5
+  dustH: {fileID: 1334962001785110803, guid: 7adc780f543ffd04abfe57c705b9d33f, type: 3}
+  dustD: {fileID: 8381627756331882967, guid: 4c8901d025f28a74ea1309175e206a18, type: 3}
+  dustHLand: {fileID: 1334962001785110803, guid: 6d0e2ccfa54bd904199b6778c1e50d97,
+    type: 3}
+  dustDLand: {fileID: 8381627756331882967, guid: fbb9a6de5f837654d874908da3d51f45,
+    type: 3}
+  dustPosition: {fileID: 8893008024442072871}
+--- !u!50 &9100513128603103719
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100513128603103718}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 3
+  m_Material: {fileID: 6200000, guid: 4072caa2781f95646889b9cc84b7aaa1, type: 2}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 4
+--- !u!95 &7590027857129425638
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100513128603103718}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fe2f879d416c5c44c8c92dad6680c03d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &470888712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100513128603103718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be991cacf36b1cc4fac8f7655762e61d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offsetX: 0.3
+  offsetY: 0.9
+  originOffsetX: 0
+  originOffsetY: 0
+  castDensity: 2
+  rayOriginsRight: []
+  rayOriginsLeft: []
+  rayOriginsUp: []
+  rayOriginsDown: []
+  showRays: 1
+  xSpeed: 0
+  ySpeed: 0
+  tolerance: -0.01
+  box: {fileID: 0}
+  useBoxCollider: 1
+--- !u!114 &1662025395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100513128603103718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abbc3777a89019f49ae4906a65975055, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 7590027857129425638}
+  spriteRenderer: {fileID: 9100513128603103722}
+  player: 2
+  boxCollider: {fileID: 9100513128603103721}
+  groundCollider: {fileID: 9100513128603103721}
+  groundCheck: {fileID: 9100513128603103723}
+  m_MaxSpeed: 4
+  m_JumpForce: 700
+  m_Grounded: 0
+  mask:
+    serializedVersion: 2
+    m_Bits: 103424
+  rayCollider: {fileID: 0}
+  groundDistance: 0.02
+  maxFallSpeed: 15.5
+  gravityThreshold: 1
+  peakGravity: 1.5
+  dustH: {fileID: 1334962001785110803, guid: 7adc780f543ffd04abfe57c705b9d33f, type: 3}
+  dustD: {fileID: 8381627756331882967, guid: 4c8901d025f28a74ea1309175e206a18, type: 3}
+  dustHLand: {fileID: 1334962001785110803, guid: 6d0e2ccfa54bd904199b6778c1e50d97,
+    type: 3}
+  dustDLand: {fileID: 8381627756331882967, guid: fbb9a6de5f837654d874908da3d51f45,
+    type: 3}
+  dustPosition: {fileID: 8893008024442072871}
+  controller: {fileID: 0}

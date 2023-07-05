@@ -1,0 +1,3997 @@
+fileFormatVersion: 2
+guid: 370f2d3dc7cf9ca41b4b196ea5e1a688
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2404797567091278751
+    second: CrystalIconsMain_0
+  - first:
+      213: 7686420217093980374
+    second: CrystalIconsMain_1
+  - first:
+      213: -2370876658786745236
+    second: CrystalIconsMain_2
+  - first:
+      213: 581095723501297184
+    second: CrystalIconsMain_3
+  - first:
+      213: 1826997969462059298
+    second: CrystalIconsMain_4
+  - first:
+      213: -1253604571829778104
+    second: CrystalIconsMain_5
+  - first:
+      213: 6925124774090316820
+    second: CrystalIconsMain_6
+  - first:
+      213: -821808338803313613
+    second: CrystalIconsMain_7
+  - first:
+      213: 5639874016933426554
+    second: CrystalIconsMain_8
+  - first:
+      213: -3396078836408363256
+    second: CrystalIconsMain_9
+  - first:
+      213: 1294242397832705808
+    second: CrystalIconsMain_10
+  - first:
+      213: 4474628725148604541
+    second: CrystalIconsMain_11
+  - first:
+      213: 430856011921693546
+    second: CrystalIconsMain_12
+  - first:
+      213: 3841433325927082274
+    second: CrystalIconsMain_13
+  - first:
+      213: -2516776119310281578
+    second: CrystalIconsMain_14
+  - first:
+      213: -1092837936253115354
+    second: CrystalIconsMain_15
+  - first:
+      213: -7675062700092469548
+    second: CrystalIconsMain_16
+  - first:
+      213: -361815186958531403
+    second: CrystalIconsMain_17
+  - first:
+      213: -1867262064103626086
+    second: CrystalIconsMain_18
+  - first:
+      213: -6866222526344994733
+    second: CrystalIconsMain_19
+  - first:
+      213: -8093851715320799356
+    second: CrystalIconsMain_20
+  - first:
+      213: -8799489608697050633
+    second: CrystalIconsMain_21
+  - first:
+      213: -8953773322754014221
+    second: CrystalIconsMain_22
+  - first:
+      213: 2613505678775585837
+    second: CrystalIconsMain_23
+  - first:
+      213: -2345399179343164383
+    second: CrystalIconsMain_24
+  - first:
+      213: -7097799321248995961
+    second: CrystalIconsMain_25
+  - first:
+      213: -2581977063548448275
+    second: CrystalIconsMain_26
+  - first:
+      213: -3747256299744448402
+    second: CrystalIconsMain_27
+  - first:
+      213: 6667974954916908774
+    second: CrystalIconsMain_28
+  - first:
+      213: -2105900506504113998
+    second: CrystalIconsMain_29
+  - first:
+      213: 8934885171305200196
+    second: CrystalIconsMain_30
+  - first:
+      213: -4473291740228291810
+    second: CrystalIconsMain_31
+  - first:
+      213: -4318237610271724246
+    second: CrystalIconsMain_32
+  - first:
+      213: -331737463867361334
+    second: CrystalIconsMain_33
+  - first:
+      213: 8123770651799890222
+    second: CrystalIconsMain_34
+  - first:
+      213: -5760186940226796341
+    second: CrystalIconsMain_35
+  - first:
+      213: -1660305360773276295
+    second: CrystalIconsMain_36
+  - first:
+      213: 6228642579999227677
+    second: CrystalIconsMain_37
+  - first:
+      213: 7808775647348262633
+    second: CrystalIconsMain_38
+  - first:
+      213: 6754235381605834279
+    second: CrystalIconsMain_39
+  - first:
+      213: -376002520018846661
+    second: CrystalIconsMain_40
+  - first:
+      213: -6910637707772617643
+    second: CrystalIconsMain_41
+  - first:
+      213: -5515393576136571481
+    second: CrystalIconsMain_42
+  - first:
+      213: 7790898533210445558
+    second: CrystalIconsMain_43
+  - first:
+      213: -3446975715412307983
+    second: CrystalIconsMain_44
+  - first:
+      213: -5162331549350790921
+    second: CrystalIconsMain_45
+  - first:
+      213: -6482165340260238564
+    second: CrystalIconsMain_46
+  - first:
+      213: 7699929550872592633
+    second: CrystalIconsMain_47
+  - first:
+      213: 365513434243041438
+    second: CrystalIconsMain_48
+  - first:
+      213: -2908465876129996469
+    second: CrystalIconsMain_49
+  - first:
+      213: 6469565675140637305
+    second: CrystalIconsMain_50
+  - first:
+      213: -5652902010131128494
+    second: CrystalIconsMain_51
+  - first:
+      213: 3629323515065538068
+    second: CrystalIconsMain_52
+  - first:
+      213: -2682388957872465331
+    second: CrystalIconsMain_53
+  - first:
+      213: 84805942031706859
+    second: CrystalIconsMain_54
+  - first:
+      213: 1841207975442996511
+    second: CrystalIconsMain_55
+  - first:
+      213: -4193958783483520339
+    second: CrystalIconsMain_56
+  - first:
+      213: 517876575949164370
+    second: CrystalIconsMain_57
+  - first:
+      213: -5322873389004959577
+    second: CrystalIconsMain_58
+  - first:
+      213: -7653790505747487666
+    second: CrystalIconsMain_59
+  - first:
+      213: -1180093337191014989
+    second: CrystalIconsMain_60
+  - first:
+      213: 593218614713362837
+    second: CrystalIconsMain_61
+  - first:
+      213: 497058573874614372
+    second: CrystalIconsMain_62
+  - first:
+      213: 7757410742249700687
+    second: CrystalIconsMain_63
+  - first:
+      213: -290057678420739850
+    second: CrystalIconsMain_64
+  - first:
+      213: 6414585477775887749
+    second: CrystalIconsMain_65
+  - first:
+      213: 1016821626357712355
+    second: CrystalIconsMain_66
+  - first:
+      213: -1694811839719418693
+    second: CrystalIconsMain_67
+  - first:
+      213: 2900443692448910472
+    second: CrystalIconsMain_68
+  - first:
+      213: -4862020307749140298
+    second: CrystalIconsMain_69
+  - first:
+      213: 2663105378387570318
+    second: CrystalIconsMain_70
+  - first:
+      213: -7179650432247246969
+    second: CrystalIconsMain_71
+  - first:
+      213: -5919578489045501362
+    second: CrystalIconsMain_72
+  - first:
+      213: -22505679719725755
+    second: CrystalIconsMain_73
+  - first:
+      213: 8834793384665616876
+    second: CrystalIconsMain_74
+  - first:
+      213: 2131352707757165114
+    second: CrystalIconsMain_75
+  - first:
+      213: 8614285406936545195
+    second: CrystalIconsMain_76
+  - first:
+      213: 6408674603291462417
+    second: CrystalIconsMain_77
+  - first:
+      213: -614175534616896263
+    second: CrystalIconsMain_78
+  - first:
+      213: -2324790767267173503
+    second: CrystalIconsMain_79
+  - first:
+      213: -3889446462719744405
+    second: CrystalIconsMain_80
+  - first:
+      213: -6211077101009856173
+    second: CrystalIconsMain_81
+  - first:
+      213: 4829619622354106223
+    second: CrystalIconsMain_82
+  - first:
+      213: 7199459368764997075
+    second: CrystalIconsMain_83
+  - first:
+      213: 8554424846965856983
+    second: CrystalIconsMain_84
+  - first:
+      213: -7705599162124267791
+    second: CrystalIconsMain_85
+  - first:
+      213: 5043896099622975504
+    second: CrystalIconsMain_86
+  - first:
+      213: -6763030090504909041
+    second: CrystalIconsMain_87
+  - first:
+      213: -1515631355770241566
+    second: CrystalIconsMain_88
+  - first:
+      213: -5120613369042078250
+    second: CrystalIconsMain_89
+  - first:
+      213: 8394431965359953008
+    second: CrystalIconsMain_90
+  - first:
+      213: 1697878510409917844
+    second: CrystalIconsMain_91
+  - first:
+      213: 5563157583936159848
+    second: CrystalIconsMain_92
+  - first:
+      213: 1062927250898111328
+    second: CrystalIconsMain_93
+  - first:
+      213: -4126710100019185160
+    second: CrystalIconsMain_94
+  - first:
+      213: -4587978156630339120
+    second: CrystalIconsMain_95
+  - first:
+      213: 4739980416305981560
+    second: CrystalIconsMain_96
+  - first:
+      213: 1601436771849810882
+    second: CrystalIconsMain_97
+  - first:
+      213: -4773703035498102520
+    second: CrystalIconsMain_98
+  - first:
+      213: -2070194604615261930
+    second: CrystalIconsMain_99
+  - first:
+      213: -7754532588620400449
+    second: CrystalIconsMain_100
+  - first:
+      213: 6450138484975942623
+    second: CrystalIconsMain_101
+  - first:
+      213: 5988109290653877077
+    second: CrystalIconsMain_102
+  - first:
+      213: -3838024238013131119
+    second: CrystalIconsMain_103
+  - first:
+      213: 5704357732743881176
+    second: CrystalIconsMain_104
+  - first:
+      213: -8807252257257887123
+    second: CrystalIconsMain_105
+  - first:
+      213: -1561175762444220400
+    second: CrystalIconsMain_106
+  - first:
+      213: 5953561822511317529
+    second: CrystalIconsMain_107
+  - first:
+      213: 8798936234255043860
+    second: CrystalIconsMain_108
+  - first:
+      213: 7760049052731634396
+    second: CrystalIconsMain_109
+  - first:
+      213: 1441419846673969020
+    second: CrystalIconsMain_110
+  - first:
+      213: 4521136048614864682
+    second: CrystalIconsMain_111
+  - first:
+      213: 7394699749285237063
+    second: CrystalIconsMain_112
+  - first:
+      213: -5823890548355932248
+    second: CrystalIconsMain_113
+  - first:
+      213: -6080595580394089528
+    second: CrystalIconsMain_114
+  - first:
+      213: 6090158480754823403
+    second: CrystalIconsMain_115
+  - first:
+      213: 8583089145203666426
+    second: CrystalIconsMain_116
+  - first:
+      213: 8620246343017534504
+    second: CrystalIconsMain_117
+  - first:
+      213: 7087708416345377803
+    second: CrystalIconsMain_118
+  - first:
+      213: 4483915221705279174
+    second: CrystalIconsMain_119
+  - first:
+      213: 8649874429491468512
+    second: CrystalIconsMain_120
+  - first:
+      213: 5269541248235595825
+    second: CrystalIconsMain_121
+  - first:
+      213: 2073945493338771966
+    second: CrystalIconsMain_122
+  - first:
+      213: 8399079686141288059
+    second: CrystalIconsMain_123
+  - first:
+      213: -4510320761583346068
+    second: CrystalIconsMain_124
+  - first:
+      213: -917051270173700185
+    second: CrystalIconsMain_125
+  - first:
+      213: -3749111937410551599
+    second: CrystalIconsMain_126
+  - first:
+      213: -1917782105636223873
+    second: CrystalIconsMain_127
+  - first:
+      213: 961060104080063344
+    second: CrystalIconsMain_128
+  - first:
+      213: 2715925299897342970
+    second: CrystalIconsMain_129
+  - first:
+      213: 6096279817459920541
+    second: CrystalIconsMain_130
+  - first:
+      213: 9003360086983661754
+    second: CrystalIconsMain_131
+  - first:
+      213: -8751605062231210574
+    second: CrystalIconsMain_132
+  - first:
+      213: -2933356644457918140
+    second: CrystalIconsMain_133
+  - first:
+      213: 4556978671079886717
+    second: CrystalIconsMain_134
+  - first:
+      213: 7993489849127190345
+    second: CrystalIconsMain_135
+  - first:
+      213: -7985100646245316485
+    second: CrystalIconsMain_136
+  - first:
+      213: -6729221330595377115
+    second: CrystalIconsMain_137
+  - first:
+      213: -4064761601520783459
+    second: CrystalIconsMain_138
+  - first:
+      213: -3629521541738226511
+    second: CrystalIconsMain_139
+  - first:
+      213: 8663934580635875912
+    second: CrystalIconsMain_140
+  - first:
+      213: -6314841383866324009
+    second: CrystalIconsMain_141
+  - first:
+      213: -3700487441143012845
+    second: CrystalIconsMain_142
+  - first:
+      213: 7152524092879550114
+    second: CrystalIconsMain_143
+  - first:
+      213: -5694516028005944021
+    second: CrystalIconsMain_144
+  - first:
+      213: 8957244465733799606
+    second: CrystalIconsMain_145
+  - first:
+      213: 2023948402439565863
+    second: CrystalIconsMain_146
+  - first:
+      213: -7804332624042655887
+    second: CrystalIconsMain_147
+  - first:
+      213: -982961028786997898
+    second: CrystalIconsMain_148
+  - first:
+      213: 4099248260453615907
+    second: CrystalIconsMain_149
+  - first:
+      213: -2544974896513814247
+    second: CrystalIconsMain_150
+  - first:
+      213: -4909996055043273455
+    second: CrystalIconsMain_151
+  - first:
+      213: 286019076497823841
+    second: CrystalIconsMain_152
+  - first:
+      213: 3166473535662354115
+    second: CrystalIconsMain_153
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalIconsMain_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c660ef0a3456244b9f726415f96deb
+      internalID: -2404797567091278751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe57d7840a571844a1ced2aec578f67
+      internalID: 7686420217093980374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf9418f661d3a1448670f274a251d8c
+      internalID: -2370876658786745236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5179628453607c4f9293e59fa77d300
+      internalID: 581095723501297184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_4
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a93a6d0142eb94b84956b1d649e13e
+      internalID: 1826997969462059298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_5
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107f22812c83d2240962fcc548f292bc
+      internalID: -1253604571829778104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_6
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52436f6729c3ac441bbd54b61a25d56d
+      internalID: 6925124774090316820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_7
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de756351f9c89b847a7df89bd13d98ff
+      internalID: -821808338803313613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_8
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ea4e35d2983046a106a9d3e4e2312
+      internalID: 5639874016933426554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_9
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b0d7ca6c92cc740ad8e6a5621dd5a8
+      internalID: -3396078836408363256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_10
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3146
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d95cdd3e4b2ab14c852a2feb3fb1917
+      internalID: 1294242397832705808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791d5b50aad416049979174c6e899928
+      internalID: 4474628725148604541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a450c11546577884eb0129d524a7b04d
+      internalID: 430856011921693546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2446f68216f8989468715e9cf2a55f7c
+      internalID: 3841433325927082274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_14
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4496e6cdac005494eae209aa4be14b47
+      internalID: -2516776119310281578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_15
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11abec1b586d8db44bf52c0c7d260fff
+      internalID: -1092837936253115354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_16
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8e0dba09cbdd14b857ca24ed0e1944
+      internalID: -7675062700092469548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_17
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade2e61e087a32f4eb68738f76d55898
+      internalID: -361815186958531403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_18
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440b9d952f90c89479c3f9dc9e3622c5
+      internalID: -1867262064103626086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_19
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6750ae0c6448e74eabf1230e45cc37f
+      internalID: -6866222526344994733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_20
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d87ff751547c2b42a0409ab7c422ab0
+      internalID: -8093851715320799356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_21
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2904
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349eea14efa678d438838ea2161bd2de
+      internalID: -8799489608697050633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb65840a0cf3f4488b91fb7d2e4dd8
+      internalID: -8953773322754014221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e923a44abf1e18c46928181cbd6837fa
+      internalID: 2613505678775585837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d81fa4aecf326f40aaee5ae3d52280a
+      internalID: -2345399179343164383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_25
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983e24cc37f1c6644a941c732ae5dc54
+      internalID: -7097799321248995961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_26
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c3fb324ef89bf4eb3ac0ad19745280
+      internalID: -2581977063548448275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_27
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebaf637c24ad8e4bae92574929e4fa3
+      internalID: -3747256299744448402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_28
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bf909d7cae19b4abff19f2bd89fb39
+      internalID: 6667974954916908774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_29
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d33196cd4c0434ea3358ae00eadcf2
+      internalID: -2105900506504113998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_30
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e7652955b614443b57e25baa5d66e9
+      internalID: 8934885171305200196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_31
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa34e37a5cf1c54f9ac853a8acb577e
+      internalID: -4473291740228291810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_32
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2662
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e48cb33bc44f4044a86edce768c1e01
+      internalID: -4318237610271724246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2acc43d6ef4bb4ab9ec10f7e6434d5
+      internalID: -331737463867361334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_34
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fba90348a8c554a9dc9b5207418f0e
+      internalID: 8123770651799890222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb998079b6315043b0e4a973292f05e
+      internalID: -5760186940226796341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_36
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8dde9a14ef0c4b8251cd1e9cef467
+      internalID: -1660305360773276295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_37
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c603c12a7fc8e04aa8280f110bc5a7a
+      internalID: 6228642579999227677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_38
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8119207ba89dc4090c7e8a331d3df7
+      internalID: 7808775647348262633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_39
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127b2d6262cc164a9a433f46de9e01f
+      internalID: 6754235381605834279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_40
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c5b1405ff54147b09860fc2ac990e
+      internalID: -376002520018846661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_41
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5f5adbd13b3064097cf6d18e34ddc0
+      internalID: -6910637707772617643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_42
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f888b6060c1897542be5f437968fed94
+      internalID: -5515393576136571481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_43
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2420
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45a64a5bbc95014eba33997fc0e0c7d
+      internalID: 7790898533210445558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd4f90a7a32f8748a5c1f094515fe75
+      internalID: -3446975715412307983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dda6abfef9e22d44be6d055857d39ed
+      internalID: -5162331549350790921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_46
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e3043cfba765d46b17ef34155b5578
+      internalID: -6482165340260238564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_47
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408411bb26b8127498f3b996fa48230b
+      internalID: 7699929550872592633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_48
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36034868e63accf41b4aee4d23f86bc8
+      internalID: 365513434243041438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_49
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c1470331d20f44bada76a1b0fdbd84
+      internalID: -2908465876129996469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_50
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e038a4013d4a0b24b92ff7e8f6103976
+      internalID: 6469565675140637305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_51
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bac720ed1a03a4eadfacdc4ac45b3d
+      internalID: -5652902010131128494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_52
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c697b9268854a04486fb6b1f4443a17
+      internalID: 3629323515065538068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_53
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c269d5a554ca24d9c485cbb31bddc7
+      internalID: -2682388957872465331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_54
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2178
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3474e7ef20ec6bf45b82148d756e1cd4
+      internalID: 84805942031706859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad74c9604a275e4bb1d1e8aa89d3d0d
+      internalID: 1841207975442996511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_56
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53896689ef98b454586a9490bb145236
+      internalID: -4193958783483520339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dbdc6d30e9bae4eb0736ead9557312
+      internalID: 517876575949164370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_58
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f979883b2ef6849b44c69f70ab9ada
+      internalID: -5322873389004959577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_59
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c11414d5bb8049b1007ce3f6bee39
+      internalID: -7653790505747487666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_60
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b230a94698baaa43a1def011ae47f52
+      internalID: -1180093337191014989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_61
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21855e4264a9147458dfc3cf86f63a7f
+      internalID: 593218614713362837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_62
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f471d0869ef13584e81579d732f3ce85
+      internalID: 497058573874614372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_63
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11090d23dd59cc240a9e9436ef0c1329
+      internalID: 7757410742249700687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_64
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef052cc279a2684b83a2e1dece80c8a
+      internalID: -290057678420739850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_65
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1936
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad61598064e4448b1397958c91bcbb
+      internalID: 6414585477775887749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c7d384f058624d89b98ad4a813612
+      internalID: 1016821626357712355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_67
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7c919a8243e24d8e5cc9012d8ef10
+      internalID: -1694811839719418693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_68
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7251e09384fef0544bb107e69c796cdb
+      internalID: 2900443692448910472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_69
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f474696e66e6749ae5cb986c06978f
+      internalID: -4862020307749140298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_70
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343781e1738f8294c8890b1a1424669d
+      internalID: 2663105378387570318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_71
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aebdcc8e906b443a3e8670054d34a3
+      internalID: -7179650432247246969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_72
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af7bc7cd0ad89245ac3de6ccfd9c0b6
+      internalID: -5919578489045501362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_73
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd38663bb4bb204682b090e4cf9ad84
+      internalID: -22505679719725755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_74
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd54435f55d16d479785a8f0751956c
+      internalID: 8834793384665616876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_75
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf56e519dcac5f438e72e4e89c66449
+      internalID: 2131352707757165114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_76
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1694
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103c032c3b8264e418aa788f43506623
+      internalID: 8614285406936545195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e077a21f040ef43879242b5be090bc
+      internalID: 6408674603291462417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_78
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be17b70f854d075488029ac5a486d6cb
+      internalID: -614175534616896263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_79
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee43ceb69bf85a4b9aaf1d0ff4a68ff
+      internalID: -2324790767267173503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_80
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5719acecdb8fd408fcf8629e643392
+      internalID: -3889446462719744405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_81
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b591bf454b4eec4fbd8085c0d855420
+      internalID: -6211077101009856173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_82
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cb8d034357ecc4f9b388ae554251bb
+      internalID: 4829619622354106223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_83
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290ce0cdedce82e44bd2688e65554aae
+      internalID: 7199459368764997075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_84
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c269c97836a5642b71c4adfd6cc9d6
+      internalID: 8554424846965856983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_85
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d76c52f3504f364fb03d5c47ab1231c
+      internalID: -7705599162124267791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_86
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36a383be152cc64da6c21177c49090c
+      internalID: 5043896099622975504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_87
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1452
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb4cfb3eeba8c14c900981aabaf14ba
+      internalID: -6763030090504909041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987e9dc8ad229db4588f57f3c6624577
+      internalID: -1515631355770241566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_89
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75a4be8585351444bdee291d1cb6e04
+      internalID: -5120613369042078250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_90
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981d5c63a7ebb5c4a85e4912d9668b34
+      internalID: 8394431965359953008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_91
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125337e2742acef4e8bae67d3b4459a8
+      internalID: 1697878510409917844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_92
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d4ab7d9537224184ba9e07c497d78
+      internalID: 5563157583936159848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_93
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299a4e1265e875c4b8f29ec49e1eee64
+      internalID: 1062927250898111328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_94
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5816f7e0c57252141ba668cff3e8a133
+      internalID: -4126710100019185160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_95
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a193234605fbbf47994ab7bed2fbe22
+      internalID: -4587978156630339120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_96
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf3a1cdcc184c041ae7a63107044e93
+      internalID: 4739980416305981560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_97
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334c21c15f5ca045a46d2170ba914c0
+      internalID: 1601436771849810882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_98
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1210
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b035a5f19ba20544ba1b3bd609da042
+      internalID: -4773703035498102520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00e3f3c4498b8e458313994e7547940
+      internalID: -2070194604615261930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_100
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0758a10643f604e85aad6c2e3f5ae6
+      internalID: -7754532588620400449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_101
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c29cb843c68d48847470563b4d533
+      internalID: 6450138484975942623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_102
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb41158d011aac4186eae741592c7d2
+      internalID: 5988109290653877077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_103
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4f5c6e27b7d634caab0da0ed8582ce
+      internalID: -3838024238013131119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_104
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e2db52922802f49bd2ecba7853871a
+      internalID: 5704357732743881176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_105
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1682685adb1fc3449d04555c3f85ba1
+      internalID: -8807252257257887123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_106
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65148c97eb894d4d94f604f7a58edf0
+      internalID: -1561175762444220400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_107
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e506cc944779e47b0dc450d18fded6
+      internalID: 5953561822511317529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_108
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a92982ba8c41d41bd1a89ba3e7153f
+      internalID: 8798936234255043860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_109
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 968
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2748d6a5dfb824495d3e53c0d53303
+      internalID: 7760049052731634396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d02a5af48d734c96e5a61739d1cc3
+      internalID: 1441419846673969020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_111
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a180cfd94f67d4c90a5e628421c835
+      internalID: 4521136048614864682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_112
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8ec5d248ffbb4c94fbbe4cd439cb4
+      internalID: 7394699749285237063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_113
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa608f43947674ea575be64fe02563
+      internalID: -5823890548355932248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_114
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014cdb6a08e848d42bfa755d01bc4e40
+      internalID: -6080595580394089528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_115
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6dced999f4ba1409316623e0f4cb60
+      internalID: 6090158480754823403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_116
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dce92a34292adc46b5a08f4b8b9b2bf
+      internalID: 8583089145203666426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_117
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b68ca2fa997404fbf269fecfaef405
+      internalID: 8620246343017534504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_118
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404e4fad6e4331b479bfd33e0451a5b1
+      internalID: 7087708416345377803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_119
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5594c3d4ec5c91440b1025039d5543a5
+      internalID: 4483915221705279174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_120
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 726
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c260d474c7623478ce4b1ab93b452b
+      internalID: 8649874429491468512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01912d828234aca4a9817b9921ffe6f8
+      internalID: 5269541248235595825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_122
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f083160d4fb54ba4a9db5c3a1fad69ce
+      internalID: 2073945493338771966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_123
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c538da75573f4997c31f56bacc30a
+      internalID: 8399079686141288059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_124
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7690fcf8a333e3f47997ee2c83c18fdd
+      internalID: -4510320761583346068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_125
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e454b35af059004a83790512ae402b5
+      internalID: -917051270173700185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_126
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c86382d3a1378479ce3e5cfeacff4d
+      internalID: -3749111937410551599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_127
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec230a876e5fa44e81a029e7a9bd866
+      internalID: -1917782105636223873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_128
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdccecb7d8732c4ca95e2e7280c2ba1
+      internalID: 961060104080063344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_129
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2493fa5e451992743aa1c37723abe80e
+      internalID: 2715925299897342970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_130
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bf00dc8da6f3d49b8f974e0776b226
+      internalID: 6096279817459920541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_131
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 484
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825a9cf703cc1bd49b19dd9b3421cbf1
+      internalID: 9003360086983661754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98259b2e367087a4592a5874b739f949
+      internalID: -8751605062231210574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_133
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676a807ccfb49f04bb317df91dff90ad
+      internalID: -2933356644457918140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_134
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931967393689c242ba56b5eaf83291f
+      internalID: 4556978671079886717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_135
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c818c704c1b64447a9ee03997a30cd9
+      internalID: 7993489849127190345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_136
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf674f8821f6741988f8dfaa46d77d
+      internalID: -7985100646245316485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_137
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc8a333536f6e448bc0ac2c7b3d96c
+      internalID: -6729221330595377115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_138
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cef9ea1bb591b46b54bf66d35ae56e
+      internalID: -4064761601520783459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_139
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b559c79a59f33b64e8a04749f6187788
+      internalID: -3629521541738226511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_140
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed761057f405fae44804db2eb8cbb41e
+      internalID: 8663934580635875912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_141
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8844e5812397449a860902c787d3f5
+      internalID: -6314841383866324009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_142
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 242
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d5c8bc61ff08745b655c0f3bd4c566
+      internalID: -3700487441143012845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869eefb021987f644b2825cce6be7ce3
+      internalID: 7152524092879550114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_144
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7da844e52be074a81d748989fe1a52
+      internalID: -5694516028005944021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_145
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c262d2aa55ae844a20ec5ff8092b65
+      internalID: 8957244465733799606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_146
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce52ff455537c13449a2fc67a3083a2b
+      internalID: 2023948402439565863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_147
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307a3d75fb1faec4fb49040428e18c0f
+      internalID: -7804332624042655887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_148
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382856a27bb66344acbe0e7fe4b6e48
+      internalID: -982961028786997898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_149
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc86b83d83ce2441a7d0cd31c41b501
+      internalID: 4099248260453615907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_150
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be736680f9e170449a33f797e3edb927
+      internalID: -2544974896513814247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_151
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaba2d7817ff0b4ea4bb009360d58bd
+      internalID: -4909996055043273455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_152
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8887bab7701da54ea70009f18bd7a70
+      internalID: 286019076497823841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalIconsMain_153
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 312
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d57cc05272fbd43be27564402728bd
+      internalID: 3166473535662354115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 89276bc941c0ada41a4c5940772e3c06
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CrystalIconsMain_111: 4521136048614864682
+      CrystalIconsMain_43: 7790898533210445558
+      CrystalIconsMain_129: 2715925299897342970
+      CrystalIconsMain_27: -3747256299744448402
+      CrystalIconsMain_28: 6667974954916908774
+      CrystalIconsMain_100: -7754532588620400449
+      CrystalIconsMain_149: 4099248260453615907
+      CrystalIconsMain_64: -290057678420739850
+      CrystalIconsMain_62: 497058573874614372
+      CrystalIconsMain_122: 2073945493338771966
+      CrystalIconsMain_139: -3629521541738226511
+      CrystalIconsMain_144: -5694516028005944021
+      CrystalIconsMain_32: -4318237610271724246
+      CrystalIconsMain_84: 8554424846965856983
+      CrystalIconsMain_8: 5639874016933426554
+      CrystalIconsMain_48: 365513434243041438
+      CrystalIconsMain_87: -6763030090504909041
+      CrystalIconsMain_41: -6910637707772617643
+      CrystalIconsMain_77: 6408674603291462417
+      CrystalIconsMain_94: -4126710100019185160
+      CrystalIconsMain_113: -5823890548355932248
+      CrystalIconsMain_49: -2908465876129996469
+      CrystalIconsMain_10: 1294242397832705808
+      CrystalIconsMain_44: -3446975715412307983
+      CrystalIconsMain_119: 4483915221705279174
+      CrystalIconsMain_78: -614175534616896263
+      CrystalIconsMain_55: 1841207975442996511
+      CrystalIconsMain_38: 7808775647348262633
+      CrystalIconsMain_61: 593218614713362837
+      CrystalIconsMain_3: 581095723501297184
+      CrystalIconsMain_102: 5988109290653877077
+      CrystalIconsMain_125: -917051270173700185
+      CrystalIconsMain_124: -4510320761583346068
+      CrystalIconsMain_120: 8649874429491468512
+      CrystalIconsMain_97: 1601436771849810882
+      CrystalIconsMain_39: 6754235381605834279
+      CrystalIconsMain_143: 7152524092879550114
+      CrystalIconsMain_33: -331737463867361334
+      CrystalIconsMain_138: -4064761601520783459
+      CrystalIconsMain_53: -2682388957872465331
+      CrystalIconsMain_153: 3166473535662354115
+      CrystalIconsMain_29: -2105900506504113998
+      CrystalIconsMain_152: 286019076497823841
+      CrystalIconsMain_57: 517876575949164370
+      CrystalIconsMain_82: 4829619622354106223
+      CrystalIconsMain_21: -8799489608697050633
+      CrystalIconsMain_69: -4862020307749140298
+      CrystalIconsMain_131: 9003360086983661754
+      CrystalIconsMain_121: 5269541248235595825
+      CrystalIconsMain_117: 8620246343017534504
+      CrystalIconsMain_140: 8663934580635875912
+      CrystalIconsMain_74: 8834793384665616876
+      CrystalIconsMain_101: 6450138484975942623
+      CrystalIconsMain_6: 6925124774090316820
+      CrystalIconsMain_34: 8123770651799890222
+      CrystalIconsMain_130: 6096279817459920541
+      CrystalIconsMain_1: 7686420217093980374
+      CrystalIconsMain_25: -7097799321248995961
+      CrystalIconsMain_109: 7760049052731634396
+      CrystalIconsMain_93: 1062927250898111328
+      CrystalIconsMain_59: -7653790505747487666
+      CrystalIconsMain_13: 3841433325927082274
+      CrystalIconsMain_9: -3396078836408363256
+      CrystalIconsMain_86: 5043896099622975504
+      CrystalIconsMain_65: 6414585477775887749
+      CrystalIconsMain_50: 6469565675140637305
+      CrystalIconsMain_60: -1180093337191014989
+      CrystalIconsMain_72: -5919578489045501362
+      CrystalIconsMain_66: 1016821626357712355
+      CrystalIconsMain_80: -3889446462719744405
+      CrystalIconsMain_92: 5563157583936159848
+      CrystalIconsMain_96: 4739980416305981560
+      CrystalIconsMain_18: -1867262064103626086
+      CrystalIconsMain_148: -982961028786997898
+      CrystalIconsMain_95: -4587978156630339120
+      CrystalIconsMain_19: -6866222526344994733
+      CrystalIconsMain_127: -1917782105636223873
+      CrystalIconsMain_15: -1092837936253115354
+      CrystalIconsMain_142: -3700487441143012845
+      CrystalIconsMain_81: -6211077101009856173
+      CrystalIconsMain_51: -5652902010131128494
+      CrystalIconsMain_11: 4474628725148604541
+      CrystalIconsMain_108: 8798936234255043860
+      CrystalIconsMain_135: 7993489849127190345
+      CrystalIconsMain_31: -4473291740228291810
+      CrystalIconsMain_68: 2900443692448910472
+      CrystalIconsMain_104: 5704357732743881176
+      CrystalIconsMain_4: 1826997969462059298
+      CrystalIconsMain_151: -4909996055043273455
+      CrystalIconsMain_141: -6314841383866324009
+      CrystalIconsMain_112: 7394699749285237063
+      CrystalIconsMain_89: -5120613369042078250
+      CrystalIconsMain_147: -7804332624042655887
+      CrystalIconsMain_103: -3838024238013131119
+      CrystalIconsMain_0: -2404797567091278751
+      CrystalIconsMain_37: 6228642579999227677
+      CrystalIconsMain_146: 2023948402439565863
+      CrystalIconsMain_54: 84805942031706859
+      CrystalIconsMain_30: 8934885171305200196
+      CrystalIconsMain_134: 4556978671079886717
+      CrystalIconsMain_107: 5953561822511317529
+      CrystalIconsMain_150: -2544974896513814247
+      CrystalIconsMain_90: 8394431965359953008
+      CrystalIconsMain_98: -4773703035498102520
+      CrystalIconsMain_133: -2933356644457918140
+      CrystalIconsMain_14: -2516776119310281578
+      CrystalIconsMain_63: 7757410742249700687
+      CrystalIconsMain_16: -7675062700092469548
+      CrystalIconsMain_23: 2613505678775585837
+      CrystalIconsMain_115: 6090158480754823403
+      CrystalIconsMain_20: -8093851715320799356
+      CrystalIconsMain_110: 1441419846673969020
+      CrystalIconsMain_132: -8751605062231210574
+      CrystalIconsMain_126: -3749111937410551599
+      CrystalIconsMain_118: 7087708416345377803
+      CrystalIconsMain_70: 2663105378387570318
+      CrystalIconsMain_114: -6080595580394089528
+      CrystalIconsMain_116: 8583089145203666426
+      CrystalIconsMain_88: -1515631355770241566
+      CrystalIconsMain_22: -8953773322754014221
+      CrystalIconsMain_76: 8614285406936545195
+      CrystalIconsMain_128: 961060104080063344
+      CrystalIconsMain_26: -2581977063548448275
+      CrystalIconsMain_46: -6482165340260238564
+      CrystalIconsMain_24: -2345399179343164383
+      CrystalIconsMain_136: -7985100646245316485
+      CrystalIconsMain_17: -361815186958531403
+      CrystalIconsMain_40: -376002520018846661
+      CrystalIconsMain_85: -7705599162124267791
+      CrystalIconsMain_2: -2370876658786745236
+      CrystalIconsMain_7: -821808338803313613
+      CrystalIconsMain_35: -5760186940226796341
+      CrystalIconsMain_36: -1660305360773276295
+      CrystalIconsMain_105: -8807252257257887123
+      CrystalIconsMain_5: -1253604571829778104
+      CrystalIconsMain_83: 7199459368764997075
+      CrystalIconsMain_12: 430856011921693546
+      CrystalIconsMain_52: 3629323515065538068
+      CrystalIconsMain_67: -1694811839719418693
+      CrystalIconsMain_123: 8399079686141288059
+      CrystalIconsMain_71: -7179650432247246969
+      CrystalIconsMain_106: -1561175762444220400
+      CrystalIconsMain_47: 7699929550872592633
+      CrystalIconsMain_58: -5322873389004959577
+      CrystalIconsMain_73: -22505679719725755
+      CrystalIconsMain_91: 1697878510409917844
+      CrystalIconsMain_75: 2131352707757165114
+      CrystalIconsMain_137: -6729221330595377115
+      CrystalIconsMain_56: -4193958783483520339
+      CrystalIconsMain_99: -2070194604615261930
+      CrystalIconsMain_79: -2324790767267173503
+      CrystalIconsMain_45: -5162331549350790921
+      CrystalIconsMain_42: -5515393576136571481
+      CrystalIconsMain_145: 8957244465733799606
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

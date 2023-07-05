@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 5d8612f923928e149ad7e983525540fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6049780859893407717
+    second: Deko6MinenEquipment2_0
+  - first:
+      213: -5309629083711972930
+    second: Deko6MinenEquipment2_1
+  - first:
+      213: -8618673501175214804
+    second: Deko6MinenEquipment2_2
+  - first:
+      213: -723394858846944345
+    second: Deko6MinenEquipment2_3
+  - first:
+      213: -4359804357200024288
+    second: Deko6MinenEquipment2_4
+  - first:
+      213: -5772209507757486950
+    second: Deko6MinenEquipment2_5
+  - first:
+      213: -6452935624551863676
+    second: Deko6MinenEquipment2_6
+  - first:
+      213: 837624694174649109
+    second: Deko6MinenEquipment2_7
+  - first:
+      213: 3289991760427615120
+    second: Deko6MinenEquipment2_8
+  - first:
+      213: -4807623476200562217
+    second: Deko6MinenEquipment2_9
+  - first:
+      213: 3944830651343290078
+    second: Deko6MinenEquipment2_10
+  - first:
+      213: 3365952277737432544
+    second: Deko6MinenEquipment2_11
+  - first:
+      213: -9159267846159185652
+    second: Deko6MinenEquipment2_12
+  - first:
+      213: -3135858166649977645
+    second: Deko6MinenEquipment2_13
+  - first:
+      213: 8450895380171770070
+    second: Deko6MinenEquipment2_14
+  - first:
+      213: -9043597985546473199
+    second: Deko6MinenEquipment2_15
+  - first:
+      213: -6014482145703341491
+    second: Deko6MinenEquipment2_16
+  - first:
+      213: 3836128038266466542
+    second: Deko6MinenEquipment2_17
+  - first:
+      213: -8592560767444186177
+    second: Deko6MinenEquipment2_18
+  - first:
+      213: 5724478425368500796
+    second: Deko6MinenEquipment2_19
+  - first:
+      213: -6864999553001782601
+    second: Deko6MinenEquipment2_20
+  - first:
+      213: 8214958741649379507
+    second: Deko6MinenEquipment2_21
+  - first:
+      213: -6389030371764374956
+    second: Deko6MinenEquipment2_22
+  - first:
+      213: -813820875047896462
+    second: Deko6MinenEquipment2_23
+  - first:
+      213: 1617515956976671778
+    second: Deko6MinenEquipment2_24
+  - first:
+      213: -1627847163489205449
+    second: Deko6MinenEquipment2_25
+  - first:
+      213: 7818899937965853378
+    second: Deko6MinenEquipment2_26
+  - first:
+      213: -8469145796948189059
+    second: Deko6MinenEquipment2_27
+  - first:
+      213: 5284733108083191386
+    second: Deko6MinenEquipment2_28
+  - first:
+      213: -7246038647222918112
+    second: Deko6MinenEquipment2_29
+  - first:
+      213: 2179964641025400634
+    second: Deko6MinenEquipment2_30
+  - first:
+      213: 7795852570995070862
+    second: Deko6MinenEquipment2_31
+  - first:
+      213: -2874539438182389662
+    second: Deko6MinenEquipment2_32
+  - first:
+      213: 7843462455859649802
+    second: Deko6MinenEquipment2_33
+  - first:
+      213: -8436006973549339951
+    second: Deko6MinenEquipment2_34
+  - first:
+      213: 5799741123761565321
+    second: Deko6MinenEquipment2_35
+  - first:
+      213: 1947526405626105265
+    second: Deko6MinenEquipment2_36
+  - first:
+      213: -8680313266381841325
+    second: Deko6MinenEquipment2_37
+  - first:
+      213: -4175205063369725062
+    second: Deko6MinenEquipment2_38
+  - first:
+      213: -8365285121789852041
+    second: Deko6MinenEquipment2_39
+  - first:
+      213: 1192063405387562239
+    second: Deko6MinenEquipment2_40
+  - first:
+      213: 8008378215723574807
+    second: Deko6MinenEquipment2_41
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5d587cead0f264d964936c3e5b2add
+      internalID: -6049780859893407717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df47302735aba494c95d7b50bf8f4e3e
+      internalID: -5309629083711972930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4ed84187f61dc43ad913a1fce43a8d
+      internalID: -8618673501175214804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a1f24a84877c94f8f458ecc07743d6
+      internalID: -723394858846944345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0549a351f73f74297114eff0c2ae5f
+      internalID: -4359804357200024288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4994f03de4044343b216fb0f77fc57f
+      internalID: -5772209507757486950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0359c99b2f95a054d9b7b2506d4da18d
+      internalID: -6452935624551863676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a4cc08e1e8f98438e37150e485c407
+      internalID: 837624694174649109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c674194dfa861644a9e08898311957b0
+      internalID: 3289991760427615120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a6bb6df62fe794fb6af07348d8a664
+      internalID: -4807623476200562217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6fcc2cda38b82408d35c553dbe1620
+      internalID: 3944830651343290078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7409a368dc19e42b7b976494434879
+      internalID: 3365952277737432544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3612417de58e44cbec5e43631b7f91
+      internalID: -9159267846159185652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cf4a33bbb4b94408f60229faa83c1c
+      internalID: -3135858166649977645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dfe99ea44138747884f8756682a0b7
+      internalID: 8450895380171770070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be478c527c1c0a749aec7034860f94bb
+      internalID: -9043597985546473199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4542917ad0561224b9b20e3a173875da
+      internalID: -6014482145703341491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_17
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258290c15bd28c34b9fa3482969c5401
+      internalID: 3836128038266466542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e84bcbb5703ddb4d87829ec6fcba375
+      internalID: -8592560767444186177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165fc9edb8c994b47a5c497b2f87b838
+      internalID: 5724478425368500796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_20
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5862a2ac230a8a841a20f5aabf6d3d4a
+      internalID: -6864999553001782601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ec03fdbd47e046a66799befeb2778
+      internalID: 8214958741649379507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5b380a2d051334aa0766f67f0fe209
+      internalID: -6389030371764374956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8b3b484834a6e47b8b193d57e83c6b
+      internalID: -813820875047896462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822f9db923e22844591491e84a019bcf
+      internalID: 1617515956976671778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5318ce681bcdf448f3752dbec36462
+      internalID: -1627847163489205449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ca3058b358b948aacbb863568c51e
+      internalID: 7818899937965853378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_27
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e898ec9ee9b1a48a10593df441f9fa
+      internalID: -8469145796948189059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21fa94c8568a8b40a693207f5d2b139
+      internalID: 5284733108083191386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d19cc1ce6c7fa42b76b2bfe069b8e9
+      internalID: -7246038647222918112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478274bbbab5ddd4eb78505669a6acbb
+      internalID: 2179964641025400634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_31
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd67bf8ca83b33448d0d0c56ab12a03
+      internalID: 7795852570995070862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488109d6f8519f44b8e91ac9cc28c9da
+      internalID: -2874539438182389662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9156f128a1cca4c8bcec036d24f0a2
+      internalID: 7843462455859649802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_34
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ade0d7195194f45a73630fe09589ff
+      internalID: -8436006973549339951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8c813d17b78444292634d973e924ba
+      internalID: 5799741123761565321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e3b4ab6e95e5143b4fc365b0f9ce9c
+      internalID: 1947526405626105265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2500945999db4785ab4da9aa331cd
+      internalID: -8680313266381841325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5727ed170d71ac447969f205d59eb37c
+      internalID: -4175205063369725062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_39
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ea0bc90d18a14893de27407acc10c
+      internalID: -8365285121789852041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_40
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6b91b521a486740a073f52697d2456
+      internalID: 1192063405387562239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deko6MinenEquipment2_41
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f8f947786fa3a4c932e6bbf86927ff
+      internalID: 8008378215723574807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b0287f041182a1b4b8941e92331d7377
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Deko6MinenEquipment2_29: -7246038647222918112
+      Deko6MinenEquipment2_0: -6049780859893407717
+      Deko6MinenEquipment2_24: 1617515956976671778
+      Deko6MinenEquipment2_18: -8592560767444186177
+      Deko6MinenEquipment2_27: -8469145796948189059
+      Deko6MinenEquipment2_16: -6014482145703341491
+      Deko6MinenEquipment2_11: 3365952277737432544
+      Deko6MinenEquipment2_3: -723394858846944345
+      Deko6MinenEquipment2_7: 837624694174649109
+      Deko6MinenEquipment2_13: -3135858166649977645
+      Deko6MinenEquipment2_23: -813820875047896462
+      Deko6MinenEquipment2_2: -8618673501175214804
+      Deko6MinenEquipment2_28: 5284733108083191386
+      Deko6MinenEquipment2_39: -8365285121789852041
+      Deko6MinenEquipment2_35: 5799741123761565321
+      Deko6MinenEquipment2_12: -9159267846159185652
+      Deko6MinenEquipment2_25: -1627847163489205449
+      Deko6MinenEquipment2_9: -4807623476200562217
+      Deko6MinenEquipment2_30: 2179964641025400634
+      Deko6MinenEquipment2_17: 3836128038266466542
+      Deko6MinenEquipment2_19: 5724478425368500796
+      Deko6MinenEquipment2_1: -5309629083711972930
+      Deko6MinenEquipment2_4: -4359804357200024288
+      Deko6MinenEquipment2_38: -4175205063369725062
+      Deko6MinenEquipment2_10: 3944830651343290078
+      Deko6MinenEquipment2_22: -6389030371764374956
+      Deko6MinenEquipment2_31: 7795852570995070862
+      Deko6MinenEquipment2_20: -6864999553001782601
+      Deko6MinenEquipment2_6: -6452935624551863676
+      Deko6MinenEquipment2_26: 7818899937965853378
+      Deko6MinenEquipment2_33: 7843462455859649802
+      Deko6MinenEquipment2_34: -8436006973549339951
+      Deko6MinenEquipment2_21: 8214958741649379507
+      Deko6MinenEquipment2_5: -5772209507757486950
+      Deko6MinenEquipment2_8: 3289991760427615120
+      Deko6MinenEquipment2_36: 1947526405626105265
+      Deko6MinenEquipment2_15: -9043597985546473199
+      Deko6MinenEquipment2_40: 1192063405387562239
+      Deko6MinenEquipment2_14: 8450895380171770070
+      Deko6MinenEquipment2_41: 8008378215723574807
+      Deko6MinenEquipment2_37: -8680313266381841325
+      Deko6MinenEquipment2_32: -2874539438182389662
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
