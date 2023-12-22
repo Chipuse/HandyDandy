@@ -1,1 +1,50 @@
 # HandyDandy
+
+## Code Contributions by Mai Vollmer
+- Assets
+  - Experimente
+    - FSM Player
+      - Mole States
+        - MoveLeft.cs
+        - MoveRight.cs
+        - Stuck.cs
+      - States
+        - Airborne.cs
+      - FSMPlayerControl.cs
+    - AccessManager.cs
+    - BugControl.cs
+    - LevelFileData.cs
+    - Minecart.cs
+    - RayCollider.cs
+  - NewInput
+    - EntityController.cs
+    - NewCharacterMovement.cs
+    - NewInputDistributer.cs
+  - Scripts
+    - Unsorted
+      - Destroy.cs
+      - Init.cs
+      - InputManagment.cs
+      - MenuComponent.cs
+      - MenuManager.cs
+      - RaycastCollider.cs
+      - ScrollGroup.cs
+      - ScrollObject.cs
+      - SimpleMenu.cs
+      - Sound.cs
+      - SoundControl.cs
+      - loadMenu.cs
+    - CameraShake.cs
+    - EnableSprite.cs
+    - JumpChanger.cs
+    - LevelChanger.cs
+    - Levitate.cs
+    - Management.cs
+    - MenuManagement.cs
+    - WheelTurner.cs
+    - lamp.cs
+    - line.cs
+    - simpleControl.cs
+    - theWall.cs
+  - MoladilloGlow.cs
+  - SceneTransition.cs
